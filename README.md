@@ -5,7 +5,7 @@ A github repo for the Data Science in Biomedical Engineering Course
 # Curriculum
 
 0. Motivation
-1. R programming
+1. [R programming](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md)
 2. Data science tools
 3. Reproducible report writing
 4. Exploratory data analysis / interactive graphs
@@ -18,11 +18,6 @@ A github repo for the Data Science in Biomedical Engineering Course
 11. Developing data products
 12. Capstone project
 
-## R programming topics
-
-1. R environments / RStudio / getting started
-2. Basic R programming
-3. Tidyverse, especially dplyr
 
 ## Data science tools
 
