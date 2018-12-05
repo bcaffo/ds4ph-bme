@@ -4,6 +4,7 @@ A github repo for the Data Science in Biomedical Engineering Course
 
 # Curriculum
 
+0. Motivation
 1. R programming
 2. Data science tools
 3. Reproducible report writing
