@@ -4,19 +4,19 @@ A github repo for the Data Science in Biomedical Engineering Course
 
 # Curriculum
 
-0. Motivation
-1. [R programming](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md)
-2. Data science tools
-3. Reproducible report writing
-4. Exploratory data analysis / interactive graphs
-5. Probability 
-6. Statistical inference and data resampling methods
-7. Linear Models / regression
-8. Generalized linear models
-9. Neural networks
-10. Statistical evaluation of engineered constructs
-11. Developing data products
-12. Capstone project
+* Motivation
+* Data science tools
+* [R programming](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md)
+* Reproducible report writing
+* Exploratory data analysis / interactive graphs
+* Probability 
+* Statistical inference and data resampling methods
+* Linear Models / regression
+* Generalized linear models
+* Neural networks
+* Statistical evaluation of engineered constructs
+* Developing data products
+* Capstone project
 
 
 ## Data science tools
