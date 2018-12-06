@@ -11,6 +11,9 @@ Reading materials
     * Cool example 1. [Shiny apps gallery](https://shiny.rstudio.com/gallery/)
     * Cool example 2. [Plotly grahics in R](https://plot.ly/r/file-options/)
     * Cool example 3. [MRICloud output](https://bcaffo.shinyapps.io/visualize/)  [Get some data here](https://github.com/bcaffo/MRIcloudT1volumetrics/tree/master/inst/extdata)
+* Demo: installing R on Mac/windows/linux
+* Demo: running R server
+* Demo: Rstudio cloud
 * [A history of R](https://datasciencespecialization.github.io/courses/02_RProgramming/OverviewHistoryR/index.html#1)
 * [Coding standards for R](https://DataScienceSpecialization.github.io/courses/02_RProgramming/CodingStandard/index.html)
 * [Data types in R](https://DataScienceSpecialization.github.io/courses/02_RProgramming/DataTypes/index.html)
