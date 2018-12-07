@@ -14,7 +14,7 @@ A github repo for the Data Science in Biomedical Engineering Course
 * Linear Models / regression
 * Generalized linear models
 * Neural networks
-* Statistical evaluation of engineered constructs
+* Statistical evaluation of engineered products
 * Developing data products
 * Capstone project
 
