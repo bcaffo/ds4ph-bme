@@ -9,8 +9,10 @@ Reproducible research is a key concept for data science.
 * [Evidence based data analysis](https://DataScienceSpecialization.github.io/courses/05_ReproducibleResearch/EvidenceBasedDataAnalysis/index.html)
 * [Case study](https://DataScienceSpecialization.github.io/courses/05_ReproducibleResearch/Example_Analysis/example_analysis.md)
 
-
 ## R markdown notebooks
 
-* [R Markdown](https://DataScienceSpecialization.github.io/courses/05_ReproducibleResearch/RMarkdown/index.md)
-* 
+* [R Markdown from Roger Peng](https://DataScienceSpecialization.github.io/courses/05_ReproducibleResearch/RMarkdown/index.md)
+* [R Markdown from Rstudio](https://rmarkdown.rstudio.com/lesson-1.html)
+* [R Markdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+* [R Markdown Karl Broman](https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
+
