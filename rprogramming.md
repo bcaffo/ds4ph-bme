@@ -38,3 +38,4 @@ Reading materials
 * [dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
 * [Pipes](https://r4ds.had.co.nz/pipes.html)
 * [Merging data](https://r4ds.had.co.nz/relational-data.html)
+* [Web scraping with Rvest](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/)
