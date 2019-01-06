@@ -15,7 +15,7 @@ Reading materials
 
 ## Version control
 
-* Version control
+* [Version control 1](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) and [version control 2](https://en.wikipedia.org/wiki/Version_control)
 * [git and github](https://github.com/seankross/the-unix-workbench/blob/master/docs/06-Git-and-GitHub.md)
 * Demo: git command line
 * Demo: using github
