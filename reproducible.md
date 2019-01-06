@@ -16,3 +16,8 @@ Reproducible research is a key concept for data science.
 * [R Markdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 * [R Markdown Karl Broman](https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
 
+## R markdown presentations
+
+* [R markdown presentations](https://slides.cpsievert.me/markdown/#/1)
+* [Github pages](https://help.github.com/categories/github-pages-basics/)
+
