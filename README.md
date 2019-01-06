@@ -4,7 +4,7 @@ A github repo for the Data Science in Biomedical Engineering Course
 
 # Curriculum
 
-* Motivation
+* [Motivation](https://github.com/bcaffo/ds4bme/blob/master/motivation.md)
 * [Data science tools](https://github.com/bcaffo/ds4bme/blob/master/dataScienceTools.md)
 * [R programming](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md)
 * [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
