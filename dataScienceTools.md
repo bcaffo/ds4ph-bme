@@ -12,6 +12,8 @@ Reading materials
 * [Command line basics](https://github.com/seankross/the-unix-workbench/blob/master/docs/03-Command-Line-Basics.md)
 * [Working with Unix](https://github.com/seankross/the-unix-workbench/blob/master/docs/04-Working-with-Unix.md)
 * [Nephology](https://github.com/seankross/the-unix-workbench/blob/master/docs/07-Nephology.md)
+* Demo linux
+* Demo creating DO server
 
 ## Version control
 
