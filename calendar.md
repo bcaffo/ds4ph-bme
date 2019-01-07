@@ -1,6 +1,6 @@
 # Calendar
 
-| Date | Reading / Videos /lecture | Demos | Assignments | Quiz |  
+| Date | Reading / Videos /lecture | Demos | Assignments | Quizzes |  
 |---|---|---|---|---|
 | 1/28/2019 | [Motivation](https://github.com/bcaffo/ds4bme/blob/master/motivation.md) | course logistics, logging into Rstudio and tour | | |
 | 1/30/2019 | [Data science tools](https://github.com/bcaffo/ds4bme/blob/master/dataScienceTools.md)  | unix, digital ocean, git commmand line, github, markdown | | |
