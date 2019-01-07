@@ -4,7 +4,7 @@ Our core programmming language for this course will be R. However, in addition t
 data scientists need to be able to utlize technology that enables productivity and good practice.
 In this module we're learn some of these computing tools.
 
-Reading materials
+## Reading materials
 * [Unix workbench](https://leanpub.com/unix)
 
 ## Unix and linux
