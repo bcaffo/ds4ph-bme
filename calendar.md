@@ -4,11 +4,11 @@
 |---|---|---|---|---|
 | 1/28/2019 | [Motivation](https://github.com/bcaffo/ds4bme/blob/master/motivation.md) | course logistics, logging into Rstudio and tour | | |
 | 1/30/2019 | [Data science tools](https://github.com/bcaffo/ds4bme/blob/master/dataScienceTools.md)  | unix, digital ocean, git commmand line, github, markdown | | |
-| 2/05/2019 | [R programming, introducing R]() | | | |
-| 2/07/2019 | [R programming 2, programming R]() | | | Quiz 1 |
-| 2/12/2019 | | | | |
-| 2/14/2019 | | | | |
-| 2/19/2019 | | | | |
+| 2/05/2019 | [R programming, introducing R](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md) | | | |
+| 2/07/2019 | [R programming 2, programming R](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md) | | | Quiz 1 |
+| 2/12/2019 | [R programmming 3, cleaning data in R](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md) | | | |
+| 2/14/2019 | [Exploratory data analysis](https://github.com/bcaffo/ds4bme/blob/master/eda.md) | | | |
+| 2/19/2019 | [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md) | | | |
 | 2/21/2019 | | | | |
 | 2/26/2019 | | | | |
 | 2/28/2019 | | | | |
