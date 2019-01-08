@@ -9,7 +9,7 @@ A github repo for the Data Science in Biomedical Engineering Course
 * [R programming](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md)
 * [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
 * Exploratory data analysis / interactive graphs
-* Developing data products
+* [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md)
 * Probability 
 * Statistical inference and data resampling methods
 * Linear Models / regression
@@ -56,5 +56,4 @@ A github repo for the Data Science in Biomedical Engineering Course
 
 ### Statistical evaluation of engineered constructs
 
-### Developing data products
 
