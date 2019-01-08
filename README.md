@@ -8,7 +8,7 @@ A github repo for the Data Science in Biomedical Engineering Course
 * [Data science tools](https://github.com/bcaffo/ds4bme/blob/master/dataScienceTools.md)
 * [R programming](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md)
 * [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
-* Exploratory data analysis / interactive graphs
+* [Exploratory data analysis / interactive graphs](https://github.com/bcaffo/ds4bme/blob/master/eda.md)
 * [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md)
 * Probability 
 * Statistical inference and data resampling methods
