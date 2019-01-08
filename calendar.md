@@ -29,9 +29,9 @@
 | 4/18/2019 | | | | |
 | 4/23/2019 | | | | |
 | 4/25/2019 | | | | |
-| 4/30/2019 | | | | |
-| 5/02/2019 | Last class | | | |
-| 5/07/2019 | Reading | | | |
+| 4/30/2019 | Student presentations | | | |
+| 5/02/2019 | Student presentations | | | |
+| 5/07/2019 | Reading Time | | | |
 | 5/09/2019 | Examination period | | | |
 | 5/14/2019 | Examination period | | | |
 | 5/16/2019 | Examination period | | | |
