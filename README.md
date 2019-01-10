@@ -3,8 +3,11 @@
 A github repo for the Data Science in Biomedical Engineering Course.
 
 Course location:
+
 Course instructor: [Brian Caffo](www.bcaffo.com)
+
 Course instructor communication: [slack](https://ds4bme2019.slack.com/messages/CFA66R7J5/)
+
 Course TA: 
 
 # Curriculum
