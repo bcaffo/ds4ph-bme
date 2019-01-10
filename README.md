@@ -30,7 +30,7 @@ Course TA:
 All course communcation will come be over the #ds4bme channel on the [ds4bme2019](https://ds4bme2019.slack.com/messages/CFA66R7J5/) slack channel. Invites to the group will be given in the first class.
 
 # Calendar
-A calendar of the course is [here](https://github.com/bcaffo/ds4bme/blob/master/calendar.md)
+A calendar of the course is [here](https://github.com/bcaffo/ds4bme/blob/master/calendar.md).
 
 # Grading
 The course will involve three forms of evaluation: quizzes / in class programming assignments, homework and projects.
