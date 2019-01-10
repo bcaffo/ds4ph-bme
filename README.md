@@ -2,6 +2,8 @@
 
 A github repo for the Data Science in Biomedical Engineering Course.
 
+Course calendar: [here](https://github.com/bcaffo/ds4bme/blob/master/calendar.md)
+
 Course location:
 
 Course instructor: [Brian Caffo](www.bcaffo.com)
