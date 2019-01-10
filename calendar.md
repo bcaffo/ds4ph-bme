@@ -14,8 +14,8 @@
 | 2/28/2019 | Probability 2  | | | |
 | 3/5/2019  | Probability 3| | | |
 | 3/7/2019  | Probability 4 | | | |
-| 3/12/2019 | Probability 5| | | |
-| 3/14/2019 | Probability 6 | | |
+| 3/12/2019 | Bootstrapping / permutation / resampling | | | |
+| 3/14/2019 | Bootstrapping / permutation / resampling | | | |
 | 3/19/2019 | Spring break | | | |
 | 3/21/2019 | Spring break | | | |
 | 3/26/2019 | Linear regression | | | |
