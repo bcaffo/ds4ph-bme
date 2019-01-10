@@ -2,8 +2,6 @@
 
 Resource, [leanpub book](https://leanpub.com/biostatmethods). I'll send out a coupon code to the class; don't buy it.
 
-## The basics
-
 * [Statistical inference the big picture](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3153074/)
 * [Introduction](https://github.com/bcaffo/Caffo-Coursera/blob/master/lecture1.pdf)
 * [Probability](https://github.com/bcaffo/Caffo-Coursera/blob/master/lecture2.pdf)
