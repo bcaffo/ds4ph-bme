@@ -10,25 +10,25 @@
 | 2/14/2019 | [Exploratory data analysis](https://github.com/bcaffo/ds4bme/blob/master/eda.md) | | | |
 | 2/19/2019 | [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md) | | | |
 | 2/21/2019 | [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md) | | | |
-| 2/26/2019 | Probability 1, the basics | | | |
-| 2/28/2019 | Probability 2, Bayes's rule, diagnostic testing  | | | |
-| 3/5/2019  | Probabilistic inference 1, hypothesis testing and CIs| | | |
-| 3/7/2019  | Probabilistic inference 2, resampling | | | |
-| 3/12/2019 | Probabilistic inference 3, | | | |
-| 3/14/2019 | Buffer room| | | |
+| 2/26/2019 | Probability 1 | | | |
+| 2/28/2019 | Probability 2  | | | |
+| 3/5/2019  | Probability 3| | | |
+| 3/7/2019  | Probability 4 | | | |
+| 3/12/2019 | Probability 5| | | |
+| 3/14/2019 | Probability 6 | | |
 | 3/19/2019 | Spring break | | | |
 | 3/21/2019 | Spring break | | | |
 | 3/26/2019 | Linear regression | | | |
 | 3/28/2019 | Linear regression | | | |
-| 3/28/2019 | | | | |
-| 4/02/2019 | | | | |
-| 4/04/2019 | | | | |
-| 4/09/2019 | | | | |
-| 4/11/2019 | | | | |
-| 4/16/2019 | | | | |
-| 4/18/2019 | | | | |
-| 4/23/2019 | | | | |
-| 4/25/2019 | | | | |
+| 3/28/2019 | Logistic regression | | | |
+| 4/02/2019 | Logistic regression | | | |
+| 4/04/2019 | Neural networks | | | |
+| 4/09/2019 | Neural networks | | | |
+| 4/11/2019 | Neural Networks | | | |
+| 4/16/2019 | Deep learning | | | |
+| 4/18/2019 | Evaluation of engineered products | | | |
+| 4/23/2019 | Evaluation of engineered products | | | |
+| 4/25/2019 | Evaluation of engineered products | | | |
 | 4/30/2019 | Student presentations | | | |
 | 5/02/2019 | Student presentations | | | |
 | 5/07/2019 | Reading Time | | | |
