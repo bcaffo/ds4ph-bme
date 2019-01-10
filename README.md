@@ -10,7 +10,7 @@ A github repo for the Data Science in Biomedical Engineering Course
 * [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
 * [Exploratory data analysis / interactive graphs](https://github.com/bcaffo/ds4bme/blob/master/eda.md)
 * [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md)
-* Probability 
+* [Probability](https://github.com/bcaffo/ds4bme/blob/master/probability.md) 
 * Statistical inference and data resampling methods
 * Linear Models / regression
 * Generalized linear models
@@ -18,42 +18,27 @@ A github repo for the Data Science in Biomedical Engineering Course
 * Statistical evaluation of engineered products
 * Capstone project
 
-## Notes
+# Course communication
+All course communcation will come be over the #ds4bme channel on the CaffoTeaching slack channel. Invites to the group will be given in the first class.
 
-### Reproducible report writing
+# Calendar
+A calendar of the course is [here](https://github.com/bcaffo/ds4bme/blob/master/calendar.md)
 
-1. Markdown
-2. Rmarkdown
-3. Knitr
-4. Reproducible presentations.
+# Grading
+The course will involve three forms of evaluation: quizzes / in class programming assignments, homework and projects.
 
-### EDA
+The final grade will be the average of the project, in class quiz / programming grades and homework weighted equally.
 
-1. Graphing foundations
-2. ggplot2
-3. plotly / ggplotly
-4. Other interactive plotting utilities
+The quiz / in class programming assignment percentage will be calculated as: 
 
-### Probability and statistical inference
+(X1 + ... + Xk) / (P1 + ... + PK) 
 
-1. Basics of probability
-2. Bayes's rule, diagnostic likelihood ratios, PPVs
-3. Expectations and densities
-4. Likelihoods and estimation
+where the Xi and Pi are the student points and possible points on assessment i respectively.
 
-### Statistical inference and data resampling
+The homework grade will be calculated in the same way.
 
-1. Sampling and randomization
-2. Causality
-3. Bootstrapping and randomization tests
-4. Confidence intervals and hypothesis tests
 
-### Linear models / regression
 
-### Generalized linear models 
 
-### Artificial intelligence / ML
-
-### Statistical evaluation of engineered constructs
 
 
