@@ -1,6 +1,11 @@
 # Introduction
 
-A github repo for the Data Science in Biomedical Engineering Course
+A github repo for the Data Science in Biomedical Engineering Course.
+
+Course location:
+Course instructor: [Brian Caffo](www.bcaffo.com)
+Course instructor communication: [slack](https://ds4bme2019.slack.com/messages/CFA66R7J5/)
+Course TA: 
 
 # Curriculum
 
@@ -19,7 +24,7 @@ A github repo for the Data Science in Biomedical Engineering Course
 * Capstone project
 
 # Course communication
-All course communcation will come be over the #ds4bme channel on the CaffoTeaching slack channel. Invites to the group will be given in the first class.
+All course communcation will come be over the #ds4bme channel on the [ds4bme2019](https://ds4bme2019.slack.com/messages/CFA66R7J5/) slack channel. Invites to the group will be given in the first class.
 
 # Calendar
 A calendar of the course is [here](https://github.com/bcaffo/ds4bme/blob/master/calendar.md)
