@@ -15,5 +15,3 @@ Resource, [leanpub book](https://leanpub.com/biostatmethods). I'll send out a co
 * [Confidence intervals](https://github.com/bcaffo/Caffo-Coursera/blob/master/lecture9.pdf)
 * [Hypothesis testing](https://github.com/bcaffo/MathematicsBiostatisticsBootCamp2/blob/master/lecture1.pdf)
 
-## Bootstrapping and permutation tests
-
