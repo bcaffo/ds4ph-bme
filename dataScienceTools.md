@@ -26,3 +26,5 @@ In this module we're learn some of these computing tools.
 
 * Demo markdown
 * [Markdown syntatx](https://www.markdownguide.org/basic-syntax/)
+
+## Regular expressions
