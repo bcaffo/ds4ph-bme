@@ -12,6 +12,7 @@ In this module we're learn some of these computing tools.
 * [Command line basics](https://github.com/seankross/the-unix-workbench/blob/master/docs/03-Command-Line-Basics.md)
 * [Working with Unix](https://github.com/seankross/the-unix-workbench/blob/master/docs/04-Working-with-Unix.md)
 * [Nephology](https://github.com/seankross/the-unix-workbench/blob/master/docs/07-Nephology.md)
+* [bash programmming](http://www.biostat.jhsph.edu/~bcaffo/statcomp/files/bash.pdf)
 * Demo linux
 * Demo creating DO server
 
@@ -28,3 +29,5 @@ In this module we're learn some of these computing tools.
 * [Markdown syntatx](https://www.markdownguide.org/basic-syntax/)
 
 ## Regular expressions
+* 
+* [Wikipedia article](https://en.wikipedia.org/wiki/Regular_expression#Syntax)
