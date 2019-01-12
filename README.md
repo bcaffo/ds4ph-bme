@@ -21,7 +21,8 @@ Course TA:
 * [Exploratory data analysis / interactive graphs](https://github.com/bcaffo/ds4bme/blob/master/eda.md)
 * [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md)
 * [Probability](https://github.com/bcaffo/ds4bme/blob/master/probability.md) 
-* Statistical inference and data resampling methods
+* [Statistical inference](https://github.com/bcaffo/ds4bme/blob/master/inference.md)
+* Data resampling methods
 * Linear Models / regression
 * Generalized linear models
 * Neural networks
