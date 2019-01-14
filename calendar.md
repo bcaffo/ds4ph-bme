@@ -10,10 +10,10 @@
 | 2/14/2019 | [Exploratory data analysis](https://github.com/bcaffo/ds4bme/blob/master/eda.md) | | | |
 | 2/19/2019 | [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md) | | | |
 | 2/21/2019 | [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md) | | | |
-| 2/26/2019 | Probability 1 | | | |
-| 2/28/2019 | Probability 2  | | | |
-| 3/5/2019  | Probability 3| | | |
-| 3/7/2019  | Probability 4 | | | |
+| 2/26/2019 | [Probability 1](https://github.com/bcaffo/ds4bme/blob/master/probability.md) | | | |
+| 2/28/2019 | [Probability 2](https://github.com/bcaffo/ds4bme/blob/master/probability.md)  | | | |
+| 3/5/2019  | [Inference 1](https://github.com/bcaffo/ds4bme/blob/master/inference.md)| | | |
+| 3/7/2019  | [Inference 2](https://github.com/bcaffo/ds4bme/blob/master/inference.md) | | | |
 | 3/12/2019 | Bootstrapping / permutation / resampling | | | |
 | 3/14/2019 | Bootstrapping / permutation / resampling | | | |
 | 3/19/2019 | Spring break | | | |
