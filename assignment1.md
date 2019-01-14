@@ -5,3 +5,5 @@
 3. Issue a pull request for the course repository.
 4. Create a new github repository called `ds4bmeTest`; add a `readme.md` file. 
 5. Download or create a simple webpage; commit it to your repository and serve the webpage using github pages.
+6. Write a script `lsfile` of the form `lsfile path outfile` that outputs the command `ls path` to the file `outfile`.
+
