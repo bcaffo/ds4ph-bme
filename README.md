@@ -2,7 +2,7 @@
 
 A github repo for the Data Science in Biomedical Engineering Course.
 
-Course calendar: [here](https://github.com/bcaffo/ds4bme/blob/master/calendar.md)
+[Course calendar](https://github.com/bcaffo/ds4bme/blob/master/calendar.md)
 
 Course location / time: JHU Homewood campus / Maryland 109, Tuesday and Thursdays 1:30 - 2:45
 
