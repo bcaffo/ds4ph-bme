@@ -8,11 +8,11 @@ Course location / time: JHU Homewood campus / Maryland 109, Tuesday and Thursday
 
 Lab  location / time: JHU Homewood campus / Shaffer 100, Thursdays 3:00 - 4:00
 
+Instructor ffice hours: Clark 314 B Tuesdays and Thursdays 3:00 - 4:00 
+
 Course instructor: [Brian Caffo](www.bcaffo.com)
 
 Course instructor communication: [slack](https://ds4bme2019.slack.com/messages/CFA66R7J5/)
-
-Instructor office hours:
 
 # Curriculum
 
