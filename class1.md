@@ -18,6 +18,7 @@ After the first class, you should:
 2. have an rstudio cloud account
 3. have installed rstudio and r onto your laptop/desktop if you want
 4. have an id number
+5. filled out the form
 
 After an invitation you should:
 1. have access to the slack channel 
