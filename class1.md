@@ -5,7 +5,7 @@ Things to discuss in the first class.
 3. TAs and lab sessions.
 4. Grading. 
 5. Rstudio cloud and installing Rstudio on windows / mac / linux.
-6. Slack channel, course communication.
+6. [Slack channel, course communication.](https://ds4bme2019.slack.com/messages/CFA66R7J5/)
 7. Student ID numbers [link to form](https://goo.gl/forms/bVCAHoN4JYxvggnX2)
 8. Github and git, git classroom.
 9. Books and reading to get started.
