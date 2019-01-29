@@ -9,5 +9,7 @@ Here are some good starting readings for the class.
 * [The tentpoles of data science](https://simplystatistics.org/2019/01/18/the-tentpoles-of-data-science/)
 * [How data scientists think](https://simplystatistics.org/2019/01/09/how-data-scientists-think-a-mini-case-study/)
 * [The key word in data science is science not data](https://simplystatistics.org/2013/12/12/the-key-word-in-data-science-is-not-data-it-is-science/)
+* [Not so standard deviations podcast](http://nssdeviations.com/)
+
 
 
