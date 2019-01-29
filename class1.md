@@ -11,9 +11,7 @@ Things to discuss in the first class.
 9. Books and reading to get started.
 10. Bringing a (charged) laptop to class.
 11. Computing requirements. 
-
-If there's time:
-12. Start Unix lectures
+12. Start Unix lectures (if there's time)
 
 After the first class, you should:
 1. have a github account
