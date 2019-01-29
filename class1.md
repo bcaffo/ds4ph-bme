@@ -12,6 +12,17 @@ Things to discuss in the first class.
 10. Bringing a (charged) laptop to class.
 11. Computing requirements. 
 
+If there's time:
+1. Start Unix lectures
 
+After the first class, you should:
+1. have a github account
+2. have an rstudio cloud account
+3. have installed rstudio and r onto your laptop/desktop if you want
+4. have an id number
+
+After an invitation you should:
+1. have access to the slack channel 
+2. have an invite to the github classroom
 
 
