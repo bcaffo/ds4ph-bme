@@ -29,5 +29,4 @@ In this module we're learn some of these computing tools.
 * [Markdown syntatx](https://www.markdownguide.org/basic-syntax/)
 
 ## Regular expressions
-* 
 * [Wikipedia article](https://en.wikipedia.org/wiki/Regular_expression#Syntax)
