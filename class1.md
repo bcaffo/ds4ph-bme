@@ -13,3 +13,5 @@ Things to discuss in the first class.
 11. Computing requirements. 
 
 
+
+
