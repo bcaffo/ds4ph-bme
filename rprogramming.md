@@ -30,6 +30,7 @@ Reading materials
 * [Debugging](https://DataScienceSpecialization.github.io/courses/02_RProgramming/debugging/index.html)
 
 ## Getting data and manipulating data in R in the tidyverse
+* [Data rectangling](https://speakerdeck.com/jennybc/data-rectangling)
 
 * [Tidy data](https://r4ds.had.co.nz/tidy-data.html)
 * [Tibbles](https://r4ds.had.co.nz/tibbles.html)
