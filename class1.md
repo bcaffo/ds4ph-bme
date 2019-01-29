@@ -13,7 +13,7 @@ Things to discuss in the first class.
 11. Computing requirements. 
 
 If there's time:
-1. Start Unix lectures
+12. Start Unix lectures
 
 After the first class, you should:
 1. have a github account
