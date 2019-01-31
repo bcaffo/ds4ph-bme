@@ -28,6 +28,22 @@
   * & (running jobs in the background)
   * shutdown, shutdown -h now
   * man, example, man man
+  * which
+  * apropros, example apropos editor
+  * grep
+  * grep with regular expressions
+    * egrep "i.g" states.txt [match one character]
+    * grep -P "i.g" states.txt
+    * egrep "s+as" states.txt [one or more "s" followd by "as"]
+    * egrep "s*as" states.txt [zero or more "s" followd by "as"]
+    * egrep "s{2}" states.txt [two "s",s]
+    * egrep "[aeiou]" states.txt [match characters]
+    * egrep "[^aeiou]" states.txt [match vowels]
+    * how to use regexs
+    * regexs versus unix wild cards
+    
+    
+
   
  
  
