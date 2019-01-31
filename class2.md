@@ -42,7 +42,8 @@
     * how to use regexs
     * regexs versus unix wild cards
     
-    
+* Creating a digital ocean server
+
 
   
  
