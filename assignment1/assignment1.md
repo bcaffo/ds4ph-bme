@@ -23,5 +23,5 @@ Issued a pull request to the course repository. Created a screenshot -> question
 ### Question 4
 Created new github repo called ds4bmeTest with added readme.md file
 
-![Q4 screenshot of repo and readme.md file.](/cloud/project/ds4bme/Test/question4.png)
+![Q4 screenshot of repo and readme.md file.](/cloud/project/ds4bme/Test/question4.PNG)
 
