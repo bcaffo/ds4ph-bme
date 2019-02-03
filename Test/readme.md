@@ -2,8 +2,8 @@
 
 #### Steps taken to complete Q2 were as follows:
 1. The [course repository](https://github.com/bcaffo/ds4bme) was forked to my repository using
-the fork ![image](https://github.com/dmannan/ds4bme/blob/master/Test/Q2fork_assign1.png) option
-available at the top of the course repository
+the fork  option available at the top of the course repository
+![image](https://github.com/dmannan/ds4bme/blob/master/Test/Q2fork_assign1.png)
 
 2. Using git clone option, the forked repository was cloned locally
 
@@ -13,7 +13,7 @@ available at the top of the course repository
 
 5. `touch readme.md` was used to create the `readme.md` file
 
-6. [Markdown syntax] (https://www.markdownguide.org/basic-syntax/) provided was followed to create this document
+6. [Markdown syntax](https://www.markdownguide.org/basic-syntax/) provided was followed to create this document
 
 7. `git add readme.md`
     `git commit -m "message"`
