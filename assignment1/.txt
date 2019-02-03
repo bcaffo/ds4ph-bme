@@ -1,5 +1,0 @@
-firstfile.dcm
-howmanymoreofthese.dcm
-maybeonemore.dcm
-secondfile.dcm
-thirdfile.dcm
