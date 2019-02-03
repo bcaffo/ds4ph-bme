@@ -1,0 +1,5 @@
+/cloud/project/ds4bme/assignment1/firstfile.dcm
+/cloud/project/ds4bme/assignment1/howmanymoreofthese.dcm
+/cloud/project/ds4bme/assignment1/maybeonemore.dcm
+/cloud/project/ds4bme/assignment1/secondfile.dcm
+/cloud/project/ds4bme/assignment1/thirdfile.dcm
