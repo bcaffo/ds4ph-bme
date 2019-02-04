@@ -4,5 +4,6 @@
 # Looks for .dcm directory in PATH specified and writes it to the output file as a .txt. 
 
 touch "${2}.txt"
-ls $1*.dcm > "${2}.txt"
+
+find $1 -name "*.dcm" > "${2}.txt"
 

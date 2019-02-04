@@ -32,14 +32,14 @@ Created and deployed a tempate webpage on github.io/hkim171 then edited some of 
 ![Q5 screenshot of github.io/hkim171 webpage.](./question5.PNG)
 
 ### Question 6
-Bash script file lsfile.sh. Takes in argument ./lsfile.sh PATH(/cloud/project/ds4bme) outfile(ds4bmepaths). chmod 775 was used to make lsfile.sh executable without needing to use bash command first. Outfile.txt contains the path directory created from the ls command. Screenshots in **figure 4,5**. 
+Bash script file lsfile.sh. Takes in argument ./lsfile.sh PATH(/cloud/project/ds4bme) outfile(ds4bmepaths). chmod 775 was used to make lsfile.sh executable without needing to use bash command first. Outfile.txt contains the path directory created from the ls command. Screenshots in **figure 4 & 5**. 
 
 ![Q6a screenshot of lsfile path outfile. path = ds4bme repo.](./question6a.PNG)
 
 ![Q6b screenshot of outfile ds4bmepaths.txt of repo directory.](./question6b.PNG)
 
 ### Question 7
-Modified above bash script in question 6 to recognize only .dcm files by using *.dcm. the dcmreader.sh file takes in two arguments. 1. directory where files should be searched (will not search additional folders if other folders exist) and 2. the output file name which will be saved as a .txt. 
+Modified above bash script by using find command instead to recognize only .dcm files by using *.dcm. the dcmreader.sh file takes in two arguments. 1. directory where to start searching to search all subdirectories within the selected directory 2. the output file name and which directroy the .dcm file is which will be saved as a .txt. Multiple test folders including dummy .dcm files were used to test and validate script as seen in **figure 6 & 7**
 
 ![Q7a screenshot of ./dcmreader.sh PATH outputfile_name as well as directory which is shown to include a couple .dcm files created using unix touch command.](./question7a.PNG)
 

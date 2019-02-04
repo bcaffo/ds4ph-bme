@@ -1,0 +1,48 @@
+---
+title: "Assignment2"
+author: "Han Kim"
+date: "2/14/2019"
+output:
+  html_document: default
+  pdf_document: default
+---
+All work was done through rstudio.cloud. 
+
+### Question 1
+Alexander_the_Great wget webpage was read into R using readLines function. Length was used to get the number of lines (3547 lines).
+
+```{r}
+AG <- readLines("/cloud/project/ds4bme/assignment2/Alexander_the_Great")
+num_lines <- length(AG)
+print(num_lines)
+
+```
+
+
+### Question 2
+Using kirby21 MRI cloud data, loaded in patient id 127 for visit 1. Using only the corrected data, loaded in this extracted data into dataframe using readSubjectDf from the MRIcloudT1volumetrics package. Using for loop and if statment, found only those volumes that corresponded to type 1 and level 1 and added them together. Total level 1 type 1 volume is 1378295.
+
+```{r}
+library(kirby21.mricloud)
+library(MRIcloudT1volumetrics)
+singlePdir <- kirby21.mricloud::get_txt_filenames(ids = 127, visits = 1, file_types = "volumes_corrected")
+singlePdata <- readSubjectDf(singlePdir[1,3])
+volumes <- singlePdata[,3]
+types <- singlePdata[,8]
+level <- singlePdata[,9]
+
+T11volume <- 0
+for(i in 1:length(level)) {
+  if((level[i] == 1)&(types[i] == 1)) {
+    T11volume = T11volume + volumes[i]
+  }
+}
+print(T11volume)
+```
+
+### Question 3
+Loaded in sleep heart health dataset from 
+
+
+
+
