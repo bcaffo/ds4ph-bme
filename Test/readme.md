@@ -5,7 +5,7 @@
 the fork  option available at the top of the course repository
 ![image](https://github.com/dmannan/ds4bme/blob/master/Test/Q2fork_assign1.png)
 
-2. Using git clone option, the forked repository was cloned locally
+2. Using `git clone https://github.com/dmannan/ds4bme.git` option, the forked repository was cloned locally
 
 3. `mkdir Test` was used to make the `Test` directory inside the local copy of the `ds4bme` repository
 
