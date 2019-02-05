@@ -1,2 +1,6 @@
-# Description of directory
-The repository was forked into my personal github to create the Test directory and add this readme file. Other files are also added.
+# Assignment 1: Question 2
+
+### Patrick Myers
+
+Fork the course repository:
+![alt text](https://github.com/pmyers16/ds4bme/tree/master/Test/Forked.png "Logo Title Text 1")
