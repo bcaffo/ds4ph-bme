@@ -8,7 +8,7 @@ For assignment 1, create a markdown file with your answers to the questions. For
 3. Issue a pull request for the course repository. Create a screenshot of your pull request. Hand in the screenshot.
 4. Create a new github repository called `ds4bmeTest`; add a `readme.md` file. Create screenshots to show your work and hand those in.
 5. Download or create a simple webpage; commit it to your repository and serve the webpage using github pages. Create screenshot and hand those in.
-6. Write a bash script `lsfile` of the form `lsfile path outfile` that outputs the command `ls path` to the file `outfile`.
+6. Write a bash script `lsfile` of the form `lsfile path outfile` that outputs the output of the command `ls path` to the file `outfile`.
 7. Write a script that recurses directories for all files with the extension `.dcm` and outputs them to a file.
 
 
