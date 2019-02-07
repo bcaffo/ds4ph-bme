@@ -12,3 +12,4 @@ For assignment 1, create a markdown file with your answers to the questions. For
 7. Write a script that recurses directories for all files with the extension `.dcm` and outputs them to a file.
 1. Using unix, grab the wikipedia page for Alexander the Great. Use the linux commands to count the number of lines in the file.    
 
+test
