@@ -19,9 +19,9 @@
 `vim readme.md`
 
 ## Screenshots for No.2
-![](https://github.com/alevar/ds4bme/blob/master/1.png)
+![](https://github.com/alevar/ds4bme/blob/master/Test/1.png)
 ##### Figure. Counting lines
-![](https://github.com/alevar/ds4bme/blob/master/2.png)
+![](https://github.com/alevar/ds4bme/blob/master/Test/2.png)
 ##### Figure. forking repo
 
 # Question No.3
