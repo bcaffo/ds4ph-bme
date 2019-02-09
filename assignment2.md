@@ -43,3 +43,5 @@ then `corner(a, c(2, 3))` should return the matrix:
 Make sure that your function does some error checking. 
 
 V. Similate 6,000 die rolls using `sample`. Put them in a matrix of size 1,000 x 6. Calculate the average of each row so that you now have a vector of 1,000 averages of 6 die rolls. Plot a histogram of the averages. Calculate the average of the averages. Calculate the variance of the averages.
+
+VI. Write a function `birthday` that calcualtes the probability at least two people in a room of `n` people (input by the user) have the same birthday. [Here's the wikipedia article on the birthday problem ](https://en.wikipedia.org/wiki/Birthday_problem). Plot the probability by the number of people in the room.
