@@ -3,7 +3,7 @@ Master's	BME
 Master's	BME
 Senior	BME
 PhD	BME
-PhD	Computer Science
+PhD	Computer_Science
 Master's	BME
 Master's	BME
 Master's	BME
@@ -15,7 +15,7 @@ Master's	BME
 Master's	BME
 Junior	BME
 Master's	BME
-Master's	Materials Science
+Master's	Materials_Science
 Master's	BME
 Master's	BME
 Senior	ChemBE
@@ -27,8 +27,8 @@ Master's	BME
 Master's	BME
 Sophomore	BME
 Master's	ChemBE
-Master's	JHSPH-Molecular Microbiology and Immunology
-PhD	BCMB, School of Medicine
+Master's	JHSPH-MMI
+PhD	BCMB_SOM
 Master's	BME
 Master's	BME
 Junior	BME
