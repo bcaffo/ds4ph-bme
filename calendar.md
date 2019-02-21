@@ -9,7 +9,7 @@
 | 2/12/2019 | [R programmming, cleaning data in R](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md) |  | |
 | 2/14/2019 | [Exploratory data analysis](https://github.com/bcaffo/ds4bme/blob/master/eda.md)  | [Assignment 2](https://github.com/bcaffo/ds4bme/blob/master/assignment2.md) | Quiz 2 |
 | 2/19/2019 | [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)  | | |
-| 2/21/2019 | [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md)  | |  Quiz 3|
+| 2/21/2019 | [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md)  | [Assignment 3](https://github.com/bcaffo/ds4bme/blob/master/assignments/assignment3.md) |  Quiz 3|
 | 2/26/2019 | [Probability 1](https://github.com/bcaffo/ds4bme/blob/master/probability.md)  | | |
 | 2/28/2019 | [Probability 2](https://github.com/bcaffo/ds4bme/blob/master/probability.md)   | | Quiz 4|
 | 3/5/2019  | [Inference 1](https://github.com/bcaffo/ds4bme/blob/master/inference.md)  | | |
