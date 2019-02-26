@@ -1,0 +1,30 @@
+---
+title: "ds4bme Class 2/26/2019"
+output: html_notebook
+---
+Powerpoint at this link:
+https://bcaffo.github.io/MRIcloudTutorial/ggplot/ggplot.html#1
+
+Install packages for ggplot stuff
+```{r}
+### install.packages('tidyverse')
+```
+
+Data is a function in R. Don't overwrite. 
+Tibble is data frame with extra stuff.
+GGplot needs tibble or data frame as first element.
+First ggplot call sets up the axis, but doesn't fill elements.  It's a canvas.
+GGplot has merging and joining.
+"::" means look inside a package
+
+Grabs the demographic data from the base kirby package without loading the entire base package.
+```{r}
+kirby21.base::kirby21_demog
+```
+
+Plotly.
+Can embed Javascript interactive graphics in R markdown once knitted to html.
+
+Mainpulate library.
+Class powerpoints under Data Science Specialization
+Runs under R.
