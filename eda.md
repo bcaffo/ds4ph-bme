@@ -5,11 +5,11 @@
 * [Rstudio tidyverse ggplot2](https://ggplot2.tidyverse.org/)
 * [ggplot2 cheatsheet](https://github.com/rstudio/cheatsheets/blob/master/data-visualization-2.1.pdf)
 * [Example of MRICloud data in ggplot2](https://bcaffo.github.io/MRIcloudTutorial/blob/gh-pages/ggplot/ggplot.html)
-*
+
 
 # Interactive graphics
- * https://github.com/DataScienceSpecialization/courses/blob/master/09_DevelopingDataProducts/manipulate/index.html
- * https://github.com/DataScienceSpecialization/courses/blob/master/09_DevelopingDataProducts/googleVis/index.html
- * https://github.com/DataScienceSpecialization/courses/blob/master/09_DevelopingDataProducts/lectures/rMaps.pdf
- * https://www.rdocumentation.org/packages/plotly/versions/4.8.0/topics/ggplotly
+ * [manipulate](https://DataScienceSpecialization.github.io/courses/09_DevelopingDataProducts/manipulate/index.html)
+ * [googleVis](https://DataScienceSpecialization.github.io/courses/09_DevelopingDataProducts/googleVis/index.html)
+ * [rMaps](https://DataScienceSpecialization.github.io/courses/09_DevelopingDataProducts/lectures/rMaps.pdf)
+ * [https://www.rdocumentation.org/packages/plotly/versions/4.8.0/topics/ggplotly](https://www.rdocumentation.org/packages/plotly/versions/4.8.0/topics/ggplotly)
 
