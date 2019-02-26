@@ -45,3 +45,4 @@ Reading materials
 
 ## MRICloud examples
    * [Dplyr](https://bcaffo.github.io/MRIcloudTutorial//dplyr/dplyr.html)
+   * [Long versus wide data](https://bcaffo.github.com/MRIcloudTutorial/longVwide/longVwide.html)
