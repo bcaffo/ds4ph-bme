@@ -41,3 +41,7 @@ Reading materials
 * [Merging data](https://r4ds.had.co.nz/relational-data.html)
 * [Web scraping with Rvest](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/)
 * [Example dplyr on MRICloud data](https://bcaffo.github.io/MRIcloudTutorial/blob/gh-pages/dplyr/dplyr.html)
+
+
+## MRICloud examples
+   * [Dplyr](https://bcaffo.github.io/MRIcloudTutorial//dplyr/dplyr.html)
