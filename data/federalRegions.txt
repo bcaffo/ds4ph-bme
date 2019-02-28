@@ -1,0 +1,51 @@
+Region State
+1	Connecticut
+1	Maine
+1	Massachusetts
+1	New Hampshire
+1	Rhode Island
+1	Vermont
+2	New Jersey
+2	New York
+3	Delaware
+3	Maryland
+3	Pennsylvania
+3	Virginia
+3	West Virginia
+4	Alabama
+4	Florida
+4	Georgia
+4	Kentucky
+4	Mississippi
+4	North Carolina
+4	South Carolina
+4	Tennessee
+5	Illinois
+5	Indiana
+5	Michigan
+5	Minnesota
+5	Ohio
+5	Wisconsin
+6	Arkansas
+6	Louisiana
+6	New Mexico
+6	Oklahoma
+6	Texas
+7	Iowa
+7	Kansas
+7	Missouri
+7	Nebraska
+8	Colorado
+8	Montana
+8	North Dakota
+8	South Dakota
+8	Utah
+8	Wyoming
+9	Arizona
+9	California
+9	Hawaii
+9	Nevada
+10	Alaska
+10	Idaho
+10	Oregon
+10	Washington
