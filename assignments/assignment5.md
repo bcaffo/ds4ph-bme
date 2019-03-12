@@ -8,3 +8,4 @@ create a document.
 * Problem 12 from Chapter 3.
 * Problem 14 from Chapter 3.
 * Problem 15 from Chatper 3.
+* Write out a one paragraph proposal for your end project.
