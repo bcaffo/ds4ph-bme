@@ -14,13 +14,13 @@
 | 2/28/2019 | [Probability 2](https://github.com/bcaffo/ds4bme/blob/master/probability.md)   | | Quiz 4|
 | 3/5/2019  | [Inference 1](https://github.com/bcaffo/ds4bme/blob/master/inference.md)  | | |
 | 3/7/2019  | [Inference 2](https://github.com/bcaffo/ds4bme/blob/master/inference.md)  | | Quiz 5 |
-| 3/12/2019 | Bootstrapping / permutation / resampling | | |
-| 3/14/2019 | Bootstrapping / permutation / resampling | | Quiz 6|
+| 3/12/2019 | [Bootstrapping / permutation / resampling](https://github.com/bcaffo/Caffo-Coursera/blob/master/lecture12.pdf) | | |
+| 3/14/2019 | [Bootstrapping / permutation / resampling](http://faculty.washington.edu/kenrice/sisg/SISG-08-06.pdf) | | Quiz 6|
 | 3/19/2019 | Spring break | | |
 | 3/21/2019 | Spring break | | |
-| 3/26/2019 | Linear regression | | |
-| 3/28/2019 | Linear regression | | Quiz 7|
-| 4/02/2019 | Logistic regression | | |
+| 3/26/2019 | Neural networks | | |
+| 3/28/2019 | Neural networks | | Quiz 7|
+| 4/02/2019 | Neural networks | | |
 | 4/04/2019 | Neural networks | | Quiz 8|
 | 4/09/2019 | Neural networks | | |
 | 4/11/2019 | Neural Networks | | Quiz 9|
