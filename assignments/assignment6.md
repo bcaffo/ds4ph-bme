@@ -14,5 +14,7 @@ Instructions on downloading the data can be found here:
 * Load the `ChickWeight` data in R. Calculate chicken weight gain and loss. Compare average weight gain for all pairs of diets. Use permutation tests and report a P-value for every comparison. Use the difference in average weight gain as the test statistic.
 * Refer to the `ChickWeight` data again. Create a bootstrap confidence interval and standard error for the difference in the medians between Diets 2 and 3. Plot the bootstrap distribution.
 
+* Write out a description of your final project with an estimation of development time, data needs and a drawing (mock up) of the interface.
+
 
 
