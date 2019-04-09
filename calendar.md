@@ -18,16 +18,16 @@
 | 3/14/2019 | [Bootstrapping / permutation / resampling](http://faculty.washington.edu/kenrice/sisg/SISG-08-06.pdf) | | Quiz 6|
 | 3/19/2019 | Spring break | | |
 | 3/21/2019 | Spring break | | |
-| 3/26/2019 | Neural networks | | |
-| 3/28/2019 | Neural networks | | Quiz 7|
+| 3/26/2019 | Bootstrapping and permutation tests | | |
+| 3/28/2019 | Bootstrapping and permutation tests | | Quiz 7|
 | 4/02/2019 | Neural networks | | |
 | 4/04/2019 | Neural networks | | Quiz 8|
 | 4/09/2019 | Neural networks | | |
-| 4/11/2019 | Neural Networks | | Quiz 9|
-| 4/16/2019 | Deep learning | | |
-| 4/18/2019 | Evaluation of engineered products | | |
-| 4/23/2019 | Evaluation of engineered products | | |
-| 4/25/2019 | Buffer room | | Quiz 10|
+| 4/11/2019 | Neural networks | | Quiz 9|
+| 4/16/2019 | Neural networks  | | |
+| 4/18/2019 | Neural networks | | |
+| 4/23/2019 | Neural networks | | |
+| 4/25/2019 | Neural networks | | Quiz 10|
 | 4/30/2019 | Student presentations | | |
 | 5/02/2019 | Student presentations | | |
 | 5/07/2019 | Reading Time | | |
