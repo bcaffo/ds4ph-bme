@@ -24,11 +24,10 @@ Course instructor communication: [slack](https://ds4bme2019.slack.com/messages/C
 * [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md)
 * [Probability](https://github.com/bcaffo/ds4bme/blob/master/probability.md) 
 * [Statistical inference](https://github.com/bcaffo/ds4bme/blob/master/inference.md)
-* Data resampling methods
-* Linear Models / regression
-* Generalized linear models
+* [Data resampling methods](https://github.com/bcaffo/ds4bme/blob/master/resampling.md)
+* [Linear Models / regression](https://github.com/bcaffo/ds4bme/blob/master/regression.md)
+* [Generalized linear models](https://github.com/bcaffo/ds4bme/blob/master/regression.md)
 * Neural networks
-* Statistical evaluation of engineered products
 * Capstone project
 
 # Course communication
