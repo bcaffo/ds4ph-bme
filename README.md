@@ -27,7 +27,7 @@ Course instructor communication: [slack](https://ds4bme2019.slack.com/messages/C
 * [Data resampling methods](https://github.com/bcaffo/ds4bme/blob/master/resampling.md)
 * [Linear Models / regression](https://github.com/bcaffo/ds4bme/blob/master/regression.md)
 * [Generalized linear models](https://github.com/bcaffo/ds4bme/blob/master/regression.md)
-* Neural networks
+* [Neural networks](https://github.com/bcaffo/ds4bme/tree/master)
 * Capstone project
 
 # Course communication
