@@ -15,5 +15,7 @@ is the optimal value of `mu`?
   * `30 <= rdi4p` (severe sleep apnea)
 * Repeat your model from the previous question including `age`, `gender`, `bmi`, `waist` and `smokstat_s1`. Interpret your restuls. 
 * Repeat the previous prediction of `log(rdi4p + 1)` using a standard feed forward neural network with multiple layers.
-* Repeat the previous prediction of `HTNDerv_s1` using a feed forward neural network with multiple layers. (Do not discretize)
+* Repeat the previous prediction of `HTNDerv_s1` using a feed forward neural network with multiple layers. (Do not discretize).
+* Repeat the MNIST example from [here](https://keras.rstudio.com/). Note, on Rstudio cloud, I had to subsample the training dataset or I ran out of memory.
+
  
