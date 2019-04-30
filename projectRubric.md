@@ -27,11 +27,11 @@ Presentation [0, 1]
 
 Github submission [0, 1]
 * Does the github submission have a readme describing the app?
-* Does the readme accurately describe the app and link to the documentation?
+* Does the readme accurately describe the app and link to the documentation (may be in the app itself)?
 * Does the readme link to the live app?
 * Is the presentation hosted on a web page?
 * Is there a link to the presentation in the readme?
 * Is the code for the app included?
-* Is there an example to run the app locally?
+* Is there an example to run the app?
 * Does the app run locally? 
 * Does the readme accurately describe the system / library requirements of the app?
