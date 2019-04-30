@@ -29,7 +29,7 @@ Github submission [0, 1]
 * Does the github submission have a readme describing the app?
 * Does the readme accurately describe the app and link to the documentation?
 * Does the readme link to the live app?
-* Is the presentation hosted as a github page?
+* Is the presentation hosted on a web page?
 * Is there a link to the presentation in the readme?
 * Is the code for the app included?
 * Is there an example to run the app locally?
