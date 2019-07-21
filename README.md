@@ -4,11 +4,11 @@ A github repo for the Data Science in Biomedical Engineering Course.
 
 [Course calendar](https://github.com/bcaffo/ds4bme/blob/master/calendar.md) and the [JHU academic calendar](https://studentaffairs.jhu.edu/registrar/academic-calendar/)
 
-Course location / time: JHU Homewood campus / Maryland 109, Tuesday and Thursdays 1:30 - 2:45
+Course location / time: JHU Homewood campus /
 
-Lab  location / time: JHU Homewood campus / Shaffer 100, Thursdays 3:00 - 4:00
+Lab  location / time: JHU Homewood campus / 
 
-Instructor ffice hours: Clark 314 B Tuesdays and Thursdays 3:00 - 4:00 
+Instructor ffice hours: Clark 314 B 
 
 Course instructor: [Brian Caffo](www.bcaffo.com)
 
