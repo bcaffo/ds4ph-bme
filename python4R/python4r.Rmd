@@ -1,0 +1,25 @@
+---
+title: "python 4 R users"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r}
+library(reticulate)
+use_python("/usr/bin/python3")
+## Not set b/c I don't have a specific conda environment
+#use_virtualenv("myenv")
+```
+
+```{r}
+download.file("https://raw.githubusercontent.com/bcaffo/ds4bme_intro/master/data/kirby127a_3_1_ax_283Labels_M2_corrected_stats.csv", destfile = "kirbyExample.csv")
+```
+
+Use Python to read in the file
+
+```{python}
+import pandas as pd
+df = pd.read_csv("kirbyExample.csv")
+
+```
