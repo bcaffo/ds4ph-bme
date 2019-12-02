@@ -6,6 +6,7 @@ editor_options:
 ---
 
 ```{r}
+library(tidyverse)
 library(reticulate)
 use_python("/usr/bin/python3")
 ## Not set b/c I don't have a specific conda environment
@@ -13,13 +14,68 @@ use_python("/usr/bin/python3")
 ```
 
 ```{r}
-download.file("https://raw.githubusercontent.com/bcaffo/ds4bme_intro/master/data/kirby127a_3_1_ax_283Labels_M2_corrected_stats.csv", destfile = "kirbyExample.csv")
+if (!file.exists("kirbyExample.csv"))
+  download.file("https://raw.githubusercontent.com/bcaffo/ds4bme_intro/master/data/kirby127a_3_1_ax_283Labels_M2_corrected_stats.csv", destfile = "kirbyExample.csv")
 ```
 
-Use Python to read in the file
+# Using python in R markdown
+
+Use Python to read in the file and do some data manipulation
 
 ```{python}
 import pandas as pd
 df = pd.read_csv("kirbyExample.csv")
+df.head(4)
+df = df.drop(['Unnamed: 0', 'rawid', 'min', 'max', 'mean', 'std'],axis = 1)
+t1l1 = df.loc[(df.type == 1) & (df.level == 1)]
+## Create a new column based on ICV
+t1l1 = t1l1.assign(icv = sum(t1l1.volume))
+t1l1 = t1l1.assign(tbv = sum(t1l1.volume[(t1l1.roi != 'CSF')]))
+t1l1 = t1l1.assign(comp = lambda x: x.volume / x.tbv)
+t1l1
+```
+
+The file is loaded in as an R object now stored in the variable `py`.
+```{r}
+ggplot(data=py$t1l1, aes(x = roi, y = comp)) + 
+  geom_bar(stat="identity")  + 
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```
+
+
+# Importing python modules
+
+
+Note for this to work for me, I had to install a newer version of reticulate.
+Note that class is read in using pandas, but is a native R data frame.
+
+```{r}
+pd = import('pandas')
+test = pd$read_csv('kirbyExample.csv')
+test
+class(test)
+```
+
+
+# Calling python scripts
+
+```{r}
+source_python("pythonTestScript.py")
+t1l1 = read_subject("kirbyExample.csv")
+class(t1l1)
+t1l1
+```
+
+# Calling the python repl
+
+Not executed, you can call the python repl from the R command. Use `exit` to exit the repl.
 
 ```
+repl_python()
+```
+
+Objects do not have permenancy in R after exiting the python repl.
+
+
+
+
