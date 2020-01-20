@@ -8,13 +8,14 @@ A github repo for the Data Science in Biomedical Engineering and Data Science fo
 [Course calendar](https://github.com/bcaffo/ds4bme/blob/master/calendar.md) and the 
 
 Course location / time: Tuesdays and Thursdays
-8:30 - 9:50 at East Baltimore, the SPH building, Room W5030
-1:30 - 2:45 at Homewood Shaffer 304
+* 8:30 - 9:50 at East Baltimore, the SPH building, Room W5030
+* 1:30 - 2:45 at Homewood Shaffer 304
 
+Lab  location / time: 
 
-Lab  location / time: 1st hour after class at each campus
-
-Instructor office hours: E3610 of the SPH building and Clark 314 B at Homewood
+Instructor office hours: 1st hour after class at each campus
+ * E3610 of the SPH building
+ * Clark 314 B at Homewood
 
 Course instructor: [Brian Caffo](www.bcaffo.com)
 
