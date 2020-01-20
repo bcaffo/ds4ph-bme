@@ -1,18 +1,25 @@
 # Introduction
 
-A github repo for the Data Science in Biomedical Engineering Course.
+A github repo for the Data Science in Biomedical Engineering and Data Science for Public Health Course.
 
-[Course calendar](https://github.com/bcaffo/ds4bme/blob/master/calendar.md) and the [JHU academic calendar](https://studentaffairs.jhu.edu/registrar/academic-calendar/)
+[JHU academic calendar](https://studentaffairs.jhu.edu/registrar/academic-calendar/)
+[JHBSPH academic calendar](https://www.jhsph.edu/academics/calendar/2019-2020.html/)
 
-Course location / time: JHU Homewood campus /
+[Course calendar](https://github.com/bcaffo/ds4bme/blob/master/calendar.md) and the 
 
-Lab  location / time: JHU Homewood campus / 
+Course location / time: Tuesdays and Thursdays
+8:30 - 9:50 at East Baltimore, the SPH building, Room W5030
+1:30 - 2:45 at Homewood Shaffer 304
 
-Instructor ffice hours: Clark 314 B 
+
+Lab  location / time: 1st hour after class at each campus
+
+Instructor office hours: E3610 of the SPH building and Clark 314 B at Homewood
 
 Course instructor: [Brian Caffo](www.bcaffo.com)
 
-Course instructor communication: [slack](https://ds4bme2019.slack.com/messages/CFA66R7J5/)
+Course instructor and TA communication: [slack]()
+
 
 # Curriculum
 
