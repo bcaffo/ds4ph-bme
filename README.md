@@ -9,8 +9,6 @@ Course location / time: Tuesdays and Thursdays
 * 8:30 - 9:50 at East Baltimore, the SPH building, Room W5030
 * 1:30 - 2:45 at Homewood Shaffer 304
 
-Lab  location / time: 
-
 Instructor office hours: 1st hour after class at each campus
  * E3610 of the SPH building
  * Clark 314 B at Homewood
