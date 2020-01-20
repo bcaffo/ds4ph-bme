@@ -5,8 +5,6 @@ A github repo for the Data Science in Biomedical Engineering and Data Science fo
 [JHU academic calendar](https://studentaffairs.jhu.edu/registrar/academic-calendar/)
 [JHBSPH academic calendar](https://www.jhsph.edu/academics/calendar/2019-2020.html/)
 
-[Course calendar](https://github.com/bcaffo/ds4bme/blob/master/calendar.md) and the 
-
 Course location / time: Tuesdays and Thursdays
 * 8:30 - 9:50 at East Baltimore, the SPH building, Room W5030
 * 1:30 - 2:45 at Homewood Shaffer 304
@@ -39,17 +37,17 @@ Course instructor and TA communication: [slack]()
 * Capstone project
 
 # Course communication
-All course communcation will come be over the #ds4bme channel on the [ds4bme2019](https://ds4bme2019.slack.com/messages/CFA66R7J5/) slack channel. Invites to the group will be given in the first class.
+All course communcation will come be over the #ds4bme channel on the [ds4bme2019]() slack channel. Invites to the group will be given in the first class.
 
 # Calendar
 A calendar of the course is [here](https://github.com/bcaffo/ds4bme/blob/master/calendar.md).
 
 # Grading
-The course will involve three forms of evaluation: quizzes / in class programming assignments, homework and projects.
+The course will involve three forms of evaluation: quizzes, homework and projects.
 
-The final grade will be the average of the project, in class quiz / programming grades and homework weighted equally.
+The final grade will be the average of the project, in class quiz grades and homework weighted equally.
 
-The quiz / in class programming assignment percentage will be calculated as: 
+The quizzes percentage will be calculated as: 
 
 (X1 + ... + Xk) / (P1 + ... + PK) 
 
