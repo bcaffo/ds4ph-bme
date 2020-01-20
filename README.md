@@ -17,12 +17,19 @@ Course instructor: [Brian Caffo](www.bcaffo.com)
 
 Course instructor and TA communication: [slack]()
 
+Quizzes: Quizzes will be given at the end of each Thursday class starting in the second week (PH) and first week (BME)
+
+Homeworks: Homeworks will be assigned and due dates given in class
+
+Project: final project will be handed in on the final class for each group. [Rubric here (note subject to change)](https://github.com/bcaffo/ds4ph-bme/blob/master/projectRubric.md)
+
 
 # Curriculum
 
 * [Motivation](https://github.com/bcaffo/ds4bme/blob/master/motivation.md)
 * [Data science tools](https://github.com/bcaffo/ds4bme/blob/master/dataScienceTools.md)
 * [R programming](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md)
+* [Basic Python](https://github.com/bcaffo/ds4bme_intro/tree/master/notebooks)
 * [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
 * [Exploratory data analysis / interactive graphs](https://github.com/bcaffo/ds4bme/blob/master/eda.md)
 * [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md)
@@ -54,6 +61,14 @@ where the Xi and Pi are the student points and possible points on assessment i r
 The homework grade will be calculated in the same way.
 
 
+## Important computing resources
+
+* [Rstudio cloud](https://rstudio.cloud/)
+* [Colab notebooks](https://colab.research.google.com/)
+* [R](https://cran.r-project.org/)
+* [Rstudio](https://rstudio.com/)
+* [Shinyapps.io](https://www.shinyapps.io/)
+* [github](https://github.com/)
 
 
 
