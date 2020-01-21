@@ -49,9 +49,6 @@ Project: final project will be handed in on the final class for each group. [Rub
 # Course communication
 All course communcation will come be over the #ds4bme channel on the [ds4bme2019](https://ds4ph-bme.slack.com) slack channel. Invites to the group will be given in the first class.
 
-# Calendar
-A calendar of the course is [here](https://github.com/bcaffo/ds4bme/blob/master/calendar.md).
-
 # Grading
 The course will involve three forms of evaluation: quizzes, homework and projects.
 
