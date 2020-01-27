@@ -1,0 +1,4 @@
+- Fork course repository to lxg201wd
+- Create new Directory named "Test"
+- Add readme.md file to "Test" directory
+- Create screenshot
