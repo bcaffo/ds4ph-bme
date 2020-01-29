@@ -14,7 +14,7 @@ Instructor office hours: 1st hour after class at each campus
  * Clark 314 B at Homewood
 
 TA office hours:
-* Homewood: Thursdays at 3:00 Wolman MPR
+* Homewood: Thursdays at 3:00 Ames 218
 * East Baltimore: Wednesdays at 3:00 room TBA
 
 
