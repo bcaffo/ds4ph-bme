@@ -3,4 +3,4 @@
 * Step 1:
 
 
-![hi](/Users/Ellie/Desktop/Assignment 1 screenshotquestion1.a.mkdir.png)
+![hi](/Users/Ellie/Desktop/Assignment 1/screenshotquestion1.a.mkdir.png)
