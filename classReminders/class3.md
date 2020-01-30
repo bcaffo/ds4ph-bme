@@ -1,7 +1,5 @@
 # Some things to discuss for Class 3.
 
-* Due date for the HW
-* Quiz coming up
 * Go over bash slides
 * Git basics
   * Reasons for version control
