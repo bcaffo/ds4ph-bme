@@ -74,4 +74,5 @@ The homework grade will be calculated in the same way.
 
 
 * Hi please accept the pull request :)
+* This is a test pull for assignment 1 questions 2
 
