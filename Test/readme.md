@@ -57,3 +57,9 @@ Website link for a simple rock/paper/scissors game hosted on github pages:
 
 `./dcmrecurse outputfile`
 
+8. Executing the following command from the terminal returns the number of lines in the file downloaded by `curl` from Wikipedia for Alexander the Great. 
+
+`curl https://en.wikipedia.org/wiki/Alexander_the_Great -sS | wc -l` 
+
+As of the last time I ran the command, it counted 3680 lines.
+
