@@ -49,3 +49,11 @@ Website link for a simple rock/paper/scissors game hosted on github pages:
 
 `5.png`
 
+6. The bash script is found in this repository as `lsfile`. It takes in two parameters - a directory to `ls` the contents of, and a `file` you want to save the output of that `ls` command to. This can be run by executing the following from whatever directory `lsfile` is in:
+
+`./lsfile directory outputfile`
+
+7. The bash script is found in this repository as `dcmrecurse`. It takes in one parameter - the name of a `outputfile` that you want to save the ouput of the script to. `dcmrecurse` begins at `~` and recursively searches through all directories to find any files that end in `.dcm`. It can be run by executing the following from whatever directory `dcmrecurse` is in:
+
+`./dcmrecurse outputfile`
+
