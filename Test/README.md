@@ -3,4 +3,4 @@
 * Step 1:
 
 
-![Drag Racing](Dragster.jpg)
+![/Users/Ellie/Desktop/Assignment 1 screenshot](question1.a.mkdir.png)
