@@ -1,4 +1,10 @@
-# ASSIGNMENT 1 ANSWERS
+## ASSIGNMENT 1 ANSWERS
 
-# QUESTION 1
+
+
+## QUESTION 2
+
+* Forked the repository 
+
+* created Test directory
 
