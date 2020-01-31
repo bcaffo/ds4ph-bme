@@ -1,7 +1,10 @@
-HW1.2: Forked the course repository; created a directory named Test; added a readme.md file
+# Assignment1 Question2 Jialan8020
 
-*This is Italic*
+**What I have done**
 
-**This is bold**
+* Forked the course repository
+* Created a directory named Test
+* Added a readme.md file
+* Edited the readme.md file with markdown synax
 
-* This is bullet point
+
