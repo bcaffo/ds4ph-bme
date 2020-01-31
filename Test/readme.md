@@ -2,6 +2,6 @@
 
 Things done:
 
-**Forked Course Repository**
+*Forked Course Repository
 
-**Create directory called "Test"**
+*Create directory called "Test"
