@@ -2,10 +2,10 @@
 
 Olivia Leavitt/omeleavitt
 
-*Forked class repository to personal account
+* Forked class repository to personal account
 
-*Created directory "Test"
+* Created directory "Test"
 
-*Added and edited file readme.md
+* Added and edited file readme.md
 
-*Committed to master branch and initiated pull request
+* Committed to master branch and initiated pull request
