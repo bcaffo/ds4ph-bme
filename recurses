@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ls -R $1 | grep ".dcm" > $2
