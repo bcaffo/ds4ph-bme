@@ -1,4 +1,6 @@
-### The following explains the steps in question1 using screenshots 
+## Assignment 1
+
+### The following explains the steps in question 1
 
 * Step 1: Fork the course repository to my GitGub account
 * Step 2: Create a directory called Test using the "mkdir" command in unix
