@@ -7,5 +7,5 @@
 * Step 3: Add a markdown file to the Test directory called readme.md using the "touch" command
 * Step 4: Take screenshots of each step
 
-# *The end* #
+### *The end* ###
 
