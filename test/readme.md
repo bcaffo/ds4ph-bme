@@ -20,3 +20,6 @@ Then add the test directory, add the readme file, add the file, commit the chang
 `git commit`
 
 `git push`
+
+Create a pull request to the original repo
+![g1.c.png](https://github.com/DEeic54/ds4ph-bme/blob/master/test/3.png)
