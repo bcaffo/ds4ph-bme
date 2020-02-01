@@ -1,5 +1,5 @@
 # Introduction
-# Attempt to make a change
+## Attempt to make a change
 
 A github repo for the Data Science in Biomedical Engineering and Data Science for Public Health Course.
 
