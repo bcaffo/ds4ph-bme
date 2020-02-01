@@ -28,7 +28,6 @@ Homeworks: Homeworks will be assigned and due dates given in class
 
 Project: final project will be handed in on the final class for each group. [Rubric here (note subject to change)](https://github.com/bcaffo/ds4ph-bme/blob/master/projectRubric.md)
 
-
 # Curriculum
 
 * [Motivation](https://github.com/bcaffo/ds4bme/blob/master/motivation.md)
