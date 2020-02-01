@@ -1,6 +1,6 @@
 # Question 1
 Using the fork button in course repo to fork it into my repo.
-![q1.a.png](test/1.png)
+![q1.a.png](https://github.com/DEeic54/ds4ph-bme/blob/master/test/1.png)
 
 Clone the repo to local computer with code:
 
