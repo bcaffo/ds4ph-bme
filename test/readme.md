@@ -11,12 +11,12 @@ The url is copied from the repository link:
 
 Then add the test directory, add the readme file, add the file, commit the change and push to remote with code:
 
-`mkdir test
+`mkdir test`
 
-touch readme.md
+`touch readme.md`
 
-add /home/rstudio-user/test/readme.md
+`add /home/rstudio-user/test/readme.md`
 
-git commit
+`git commit`
 
-git push`
+`git push`
