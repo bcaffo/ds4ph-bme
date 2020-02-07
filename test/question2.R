@@ -7,16 +7,11 @@ webpage <- function(){
     # Return
     # i:interge
     # the number of lines
-    # the answer of this file is 3692
+    # the lines of this file is 3691
   
-    i = 1
-    f <- file('/cloud/project/ds4ph-bme/test/alex.txt', open = 'rt')
-    length(f)
-    while(TRUE){
-      lines <- readLines(f, 1)
-      if(length(lines)==0) break
-      else i = i + 1
-    }
-    close(f)
+  
+    f <- readLines('/cloud/project/ds4ph-bme/test/alex.txt')
+    i=length(f)
+
     return(i)
 }
