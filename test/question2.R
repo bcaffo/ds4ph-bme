@@ -11,7 +11,7 @@ webpage <- function(){
   
   
     f <- readLines('/cloud/project/ds4ph-bme/test/alex.txt')
-    i=length(f)
+    i = length(f)
 
     return(i)
 }
