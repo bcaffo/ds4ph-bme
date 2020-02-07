@@ -11,6 +11,7 @@ webpage <- function(){
   
     i = 1
     f <- file('/cloud/project/ds4ph-bme/test/alex.txt', open = 'rt')
+    length(f)
     while(TRUE){
       lines <- readLines(f, 1)
       if(length(lines)==0) break
