@@ -5,5 +5,4 @@
 * [Book](https://leanpub.com/ddp)
 * [New DDP lectures](https://github.com/DataScienceSpecialization/Developing_Data_Products)
   * [Leaflet](https://github.com/DataScienceSpecialization/Developing_Data_Products/tree/master/leaflet)
-* Demo: developing a shiny app
-
+* [Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/index.html)
