@@ -22,4 +22,41 @@
 * `4.1 / 2` `4.1 // 2` `4.1 % 2`
 
 ### Basic programming
+* `input` for text input as in `x = input(`are you mean (y/n)? > `) 
+```
+if x == 'y': 
+ print("Slytherine!")
+else:
+ print("Gryffindor")
+```
+* Notice that indentation matters in python (instead of using curly braces, say), don't forget the `:`
+* Control flow
+```
+if statement1 :
+ ...
+elif statement2 :
+ ...
+else 
+ ...
+```
+* Example, note this is just `(a < 0) - (a > 0)` 
+```
+a = 5
 
+if a < 0 :
+  a = -1
+elif a > 0 :
+  a = 1
+else :
+  a = 0
+```
+* For and while loops
+```
+for i in range(10) :
+ print(i)
+ 
+x = 10
+while x > 0 :
+ x = x - 1
+ print(x)
+```
