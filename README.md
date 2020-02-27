@@ -34,7 +34,7 @@ Project: final project will be handed in on the final class for each group. [Rub
 * [Motivation](https://github.com/bcaffo/ds4bme/blob/master/motivation.md)
 * [Data science tools](https://github.com/bcaffo/ds4bme/blob/master/dataScienceTools.md)
 * [R programming](https://github.com/bcaffo/ds4bme/blob/master/rprogramming.md)
-* [Basic Python](https://github.com/bcaffo/ds4bme_intro/tree/master/notebooks)
+* [Basic Python](https://github.com/bcaffo/ds4ph-bme/blob/master/python.md)
 * [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
 * [Exploratory data analysis / interactive graphs](https://github.com/bcaffo/ds4bme/blob/master/eda.md)
 * [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md)
