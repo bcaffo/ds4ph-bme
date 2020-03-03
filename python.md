@@ -1,6 +1,7 @@
 * [ipython notebooks from DS4BME intro class](https://github.com/bcaffo/ds4bme_intro/tree/master/notebooks)
 * [python for R](https://github.com/bcaffo/ds4ph-bme/tree/master/python4R)
 * [`reticulate` docs](https://rstudio.github.io/reticulate/)
+* [python tutorial](https://docs.python.org/3/tutorial/)
 
 ## Some basic python notes
 
@@ -59,4 +60,33 @@ x = 10
 while x > 0 :
  x = x - 1
  print(x)
+```
+
+* Creating functions
+```
+## Remember the colon
+def pow(x, n = 2):
+  return x ** n
+
+pow(3, 2)
+pow(x = 3, n = 2)
+pow(n = 2, x = 3)
+pow(n = 2, 3) 
+```
+
+* From [https://docs.python.org/3/tutorial/controlflow.html](https://docs.python.org/3/tutorial/controlflow.html) control over whether an argument is positional, keyword or both. (Don't get too cute with this.)
+```
+def f(pos1, pos2, /, pos_or_kwd, *, kwd1, kwd2):
+      -----------    ----------     ----------
+        |             |                  |
+        |        Positional or keyword   |
+        |                                - Keyword only
+         -- Positional only
+```
+* python has its version of `...` (also from docs.python.org)
+```
+def concat(*args, sep="/"):
+ return sep.join(args)  
+
+concat("a", "b", "c")
 ```
