@@ -11,6 +11,10 @@ library(reticulate)
 use_python("/usr/bin/python3")
 ## Not set b/c I don't have a specific conda environment
 #use_virtualenv("myenv")
+
+## how to install to the python conda environment used
+## in R
+conda_install(packages = "pandas")
 ```
 
 ```{r}
@@ -74,7 +78,7 @@ Not executed, you can call the python repl from the R command. Use `exit` to exi
 repl_python()
 ```
 
-Objects do not have permenancy in R after exiting the python repl.
+Objects do have permenancy in R after exiting the python repl. So typing `x = 4` in the repl will put `py$x` as 4 in R after you exit the repl.
 
 
 
