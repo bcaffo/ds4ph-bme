@@ -24,7 +24,7 @@ This will count as a regular assignment with 8 points (1 per question).
 7. Does the app describe how the user can interact with it on the app?
 8. Does the app have at least one interactive element?
 9. Did the student describe their access to the data in the readme? For example, did they document that they can access the data for the purpose its being used for? 
-10. These are points available to judge the quality of the app. 1 point - the app was low to minimal effort. 2 points, the app was well done and interesting. 
+10. A point available to judge the quality of the app. 0 the app was low to minimal effort. 1 point, the app was well done and interesting. (judged liberally).
 
 Some ideas
 1. Display google trends data [google trends R package](https://cran.r-project.org/web/packages/gtrendsR/gtrendsR.pdf)
