@@ -42,6 +42,7 @@ Reading materials
 * [Web scraping with Rvest](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/)
 * [Example dplyr on MRICloud data](https://bcaffo.github.io/MRIcloudTutorial/blob/gh-pages/dplyr/dplyr.html)
 * [rvest for web scraping](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/)
+* [more rvest](https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/)
 
 
 
