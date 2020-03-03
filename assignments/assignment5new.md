@@ -5,7 +5,7 @@ For this assignment, you will create a coronavirus information flexdashboard app
 (by JHU CSSE, [Center For Systems Science and Engineering at JHU](https://systems.jhu.edu/)). 
 [Here's their Lancet note describing the app](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext).
 
-* You can team up with at most 4 other students.
+* You can team up with between 0 and 4 other students.
   * If you team up, you must clearly delineate each role in the `readme.md` file of the github repo
   * Teaming up is not necessary.
   * Every team member must submit a copy of the app to github classroom.
