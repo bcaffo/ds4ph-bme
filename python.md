@@ -90,3 +90,13 @@ def concat(*args, sep="/"):
 
 concat("a", "b", "c")
 ```
+* lambda is for creating short unnamed function definitions. Let's return to an example that we did in R
+```
+def makepow(n):
+ return lambda x: x ** n
+
+square = makepow(2)
+square(3)
+cube = makepow(3)
+cube(2)
+```
