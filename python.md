@@ -61,7 +61,16 @@ while x > 0 :
  x = x - 1
  print(x)
 ```
+* Note that `for` can loop over any indexed entity
+```
+for w in 'word':
+ print(w)
 
+weirdList = ["a", ["b", 2], 3]
+for w in weirdList :
+ print(w)
+```
+* The `range` function is useful for numerical indexing, try `range(5)`
 * Creating functions
 ```
 ## Remember the colon
@@ -73,7 +82,6 @@ pow(x = 3, n = 2)
 pow(n = 2, x = 3)
 pow(n = 2, 3) 
 ```
-
 * From [https://docs.python.org/3/tutorial/controlflow.html](https://docs.python.org/3/tutorial/controlflow.html) control over whether an argument is positional, keyword or both. (Don't get too cute with this.)
 ```
 def f(pos1, pos2, /, pos_or_kwd, *, kwd1, kwd2):
