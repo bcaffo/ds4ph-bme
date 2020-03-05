@@ -134,5 +134,5 @@ dir(mm)
 * Add `print(square(2), cube(3))` to the end of `mymod.py`. How to run it from the command line?
  1. `python3 mymod.py`
  2. `python3 < mymod.py`
- 3. Add `#!/usr/bin/python3` then `chmod +x mymod.py` then `./mymod.ppy`
+ 3. Add `#!/usr/bin/python3` then `chmod +x mymod.py` then `./mymod.py`
  
