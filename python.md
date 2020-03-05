@@ -111,6 +111,8 @@ square(3)
 cube = makepow(3)
 cube(2)
 ```
+
+### Modules and running code
 * loading a model. Define a file `mymod.py` with the folllowing function defs
 ```
 def square(x) :
