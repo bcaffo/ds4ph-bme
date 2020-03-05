@@ -3,8 +3,11 @@
 * [`reticulate` docs](https://rstudio.github.io/reticulate/)
 * [python tutorial](https://docs.python.org/3/tutorial/)
 
-## Some basic python notes
-
+## types
+* types: `type(10)`, `type(10.0)`, `type(10+0j)`, `type(True)`
+* more complex data structures: `type([1, 2])`, `type((1, 2))`, `type({1, 2})`
+* conversions: `type(float(10))`, `a=10`, `type(a.__float__())`
+ 
 ### Getting started
 * start up python with `python3`
 * `python --version`
@@ -108,3 +111,26 @@ square(3)
 cube = makepow(3)
 cube(2)
 ```
+* loading a model. Define a file `mymod.py` with the folllowing function defs
+```
+def square(x) :
+  return x ** 2
+
+
+def cube(x) :
+  return x ** 3
+```
+* then
+```
+import mymod as mm
+mm.square(2)
+mm.cube(2)
+from mymod import square
+square(2)
+dir(mm)
+```
+* Add `print(square(2), cube(3))` to the end of `mymod.py`. How to run it from the command line?
+ 1. `python3 mymod.py`
+ 2. `python3 < mymod.py`
+ 3. Add `#!/usr/bin/python3` then `chmod +x mymod.py` then `./mymod.ppy`
+ 
