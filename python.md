@@ -112,6 +112,20 @@ cube = makepow(3)
 cube(2)
 ```
 
+### Data structures
+* We've already seen lists. Python has other data structures built in.
+* Sets `{"a", "a", "a", "b"}` (unique elements)
+* Tuples `(1, 2, 3)`  (a lot like lists but not mutable, i.e. need to create a new to modify)
+* Dictionaries
+```
+dict = {"a" : 1, "b" : 2}
+dict['a']
+dict['b']
+```
+* More about data structures can be founds [at the python docs](https://docs.python.org/3/tutorial/datastructures.html)
+
+
+
 ### Modules and running code
 * loading a model. Define a file `mymod.py` with the folllowing function defs
 ```
