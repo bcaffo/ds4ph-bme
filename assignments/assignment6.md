@@ -1,6 +1,3 @@
-Download the regression models book from leanpub [https://leanpub.com/regmods](https://leanpub.com/regmods). 
-(Note there's a free option, make sure to slide the slider all of the way to the left!)
-
 * Consider the dataset `x = c(1.57, 1.25, 2.80, 0.43)`. Suppose we want to minimize the weighted version of least squares for `mu`
 given by `sum( w * (x - mu) ^ 2 )` where `w = c(2, 2, 1, 1)`. That is, the first two observation are weighted double the second two. What
 is the optimal value of `mu`?
