@@ -8,7 +8,7 @@ is the optimal value of `mu`?
 
 Repeat these questions in an colab notebook using python
 
-* Consider the `shhs` datset distributed over slack. Use linear regression with 
+* Consider the `shhs.txt` datset distributed over slack. Use linear regression with 
   `bmi` to predict `log(rdi4p + 1)`. Report the coefficients and a scatterplot with the fitted line.
 * Using your formula from the previous question, predict `rdi4p` for a person with a `bmi = 30`. 
 
