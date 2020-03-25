@@ -1,3 +1,5 @@
+This assignment is due 4/1/2020
+
 * Consider the dataset `x = c(1.57, 1.25, 2.80, 0.43)`. Suppose we want to minimize the weighted version of least squares for `mu`
 given by `sum( w * (x - mu) ^ 2 )` where `w = c(2, 2, 1, 1)`. That is, the first two observation are weighted double the second two. What
 is the optimal value of `mu`?
