@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1 .....
 
 For assignment 1, create a markdown file with your answers to the questions. For the questions that ask for screen shots, label the screenshots with the question and a sublabel: `question2.a.png` (or `jpg` ...), `question2.b.png` ... and so on. All of your work should be submitted in github classroom.
 
