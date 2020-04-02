@@ -38,9 +38,9 @@ Project: final project will be handed in on the final class for each group. [Rub
 * [Reproducible report writing](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
 * [Exploratory data analysis / interactive graphs](https://github.com/bcaffo/ds4bme/blob/master/eda.md)
 * [Developing data products](https://github.com/bcaffo/ds4bme/blob/master/ddp.md)
-* [Probability](https://github.com/bcaffo/ds4bme/blob/master/probability.md) 
-* [Statistical inference](https://github.com/bcaffo/ds4bme/blob/master/inference.md)
-* [Data resampling methods](https://github.com/bcaffo/ds4bme/blob/master/resampling.md)
+* [Probability](https://github.com/bcaffo/ds4bme/blob/master/probability.md) [NOT COVERED]
+* [Statistical inference](https://github.com/bcaffo/ds4bme/blob/master/inference.md) [NOT COVERED]
+* [Data resampling methods](https://github.com/bcaffo/ds4bme/blob/master/resampling.md) [NOT COVERED]
 * [Linear Models / regression](https://github.com/bcaffo/ds4bme/blob/master/regression.md)
 * [Generalized linear models](https://github.com/bcaffo/ds4bme/blob/master/regression.md)
 * [Neural networks](https://github.com/bcaffo/ds4bme/tree/master)
