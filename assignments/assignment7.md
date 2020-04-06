@@ -13,4 +13,4 @@ Consider the shhs dataset from the previouis HW.
 What you should hand in to the github assignment repo:
 
 An R Markdown notebook with your solutions and description of your solutions for all but the python questions.
-A pdf of the rendered vesion of your R markdown notebook.
+A pdf of the rendered vesion of your R markdown notebook. You do not need to do this assignment in python.
