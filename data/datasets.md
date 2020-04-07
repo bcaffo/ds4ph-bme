@@ -8,6 +8,7 @@
 * [Sleep spindles eeg dataset](http://www.tcts.fpms.ac.be/~devuyst/Databases/DatabaseSpindles/)
 * [EEG / ERP data](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
 * [Physiobank](https://physionet.org/physiobank/database/)
+* [JHU CSSE covid data](https://github.com/CSSEGISandData/COVID-19)
 
 
 
