@@ -43,7 +43,7 @@ Project: final project will be handed in on the final class for each group. [Rub
 * [Data resampling methods](https://github.com/bcaffo/ds4bme/blob/master/resampling.md) [NOT COVERED]
 * [Linear Models / regression](https://github.com/bcaffo/ds4bme/blob/master/regression.md)
 * [Generalized linear models](https://github.com/bcaffo/ds4bme/blob/master/regression.md)
-* [Penalization and extension of regression models and glms)(https://github.com/bcaffo/ds4ph-bme/tree/master)
+* [Penalization and extension of regression models and glms](https://github.com/bcaffo/ds4ph-bme/tree/master)
 * [Neural networks](https://github.com/bcaffo/ds4bme/tree/master)
 * Capstone project
 
