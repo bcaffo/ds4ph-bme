@@ -8,7 +8,7 @@ Consider the shhs dataset from the previouis HW.
 * Redo your fit to question 1 using a lasso penalty. Attach a plot of the coefficients as the L1 sum of the parameters varies. 
 * Redo your fit to question 1 using a ridge peanlty. Attach a plot of the coefficients as L1 sum of the parameters varies.
 * Redo your fit to question 1 using an elastic net penalty. Attach a plot of the coefficients as L1 sum of the parameters varies.
-* Split your data into 25% testing and 75% training. Train your model from questions 1 to predict log(rdi4p + 1) using an elastic net, lasso, ridge regression, and no penalty. Compare the test set mean squared error on the three. Use cross validation to select the penalty.
+* Train your model from questions 1 to predict log(rdi4p + 1) using an elastic net, lasso, ridge regression, and no penalty.Use cross validation to select the penalty. Compare the be best cross validated error for each type (lasso, ridge, EL).
 
 What you should hand in to the github assignment repo:
 
