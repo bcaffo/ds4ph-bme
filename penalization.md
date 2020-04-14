@@ -74,17 +74,17 @@ plot(x, y, frame = FALSE)
 lines(x, predict(fit0), col = "blue", lwd = 3)
 lines(x, cos(x), col = "red")
 
-cvR = cv.glmnet(splineTerms, y,
+fit1= glmnet(splineTerms, y,
              alpha = 0,
-             standardize = TRUE,
-             lambda = seq(0, 1, length = 1000)
-             )
+             lambda = 0.05,
+             standardize = FALSE)
 plot(x, y, frame = FALSE)
-lines(x, predict(cvR, newx = splineTerms, lambda = "lambda.1se"), lwd = 3, col = "darkgreen")
+lines(x, predict(fit1, newx = splineTerms), lwd = 3, col = "darkgreen")
 lines(x, cos(x), col = "red", lwd = 3)
-#lines(x, predict(fit0), col = "blue", lwd = 3)
 
-## using mgcv
+## GLMNET seems really finicky, 
+## There's a package dedicated specifically to
+## spline fits for scatterplot smoothing called mgcv
 library(mgcv)
 fitGam = gam(y ~ s(x))
 plot(x, y, frame = FALSE)
