@@ -12,4 +12,5 @@ Things to cover
 
 Examples to cover
 * [mnist (not as a cnn) on keras](https://keras.rstudio.com/articles/getting_started.html)
-* 
+* [mnist (not as cnn) on keras in python](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb#scrollTo=zWSRnQ0WI5eq)
+
