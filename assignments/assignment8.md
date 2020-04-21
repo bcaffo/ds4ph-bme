@@ -1,3 +1,5 @@
+For each of the following, hand in a separate ipython notebook file (compiled with results) to your github assignment rep. 
+
 1. Use Keras and Tensor Flow on colab to fit a prediction model for the mnist data with multiple hidden layers. The first has 128 nodes, the second 64 and the 3rd 32
 then an output layer of size 10. Have 20% dropout for each hidden layer. Compare the test set accuracy to a model with only one hidden layer with 32 nodes
 and then an output layer of size 10. Have 20% dropout for the hidden layer.
