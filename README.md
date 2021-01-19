@@ -5,7 +5,7 @@ A github repo for the Data Science in Biomedical Engineering and Data Science fo
 [JHU academic calendar](https://studentaffairs.jhu.edu/registrar/academic-calendar/)
 [JHBSPH academic calendar](https://www.jhsph.edu/academics/calendar/2019-2020.html/)
 
-Course location / time: Classes will be done asyncronously. Recorded lectures will be posted on the Teams site for the class. In addition, there will be two office hours / live lectures / live coding sessions per week on  Tuesdays and Thursdays. These live sessions are not required and will not be recorded. Students are welcome to attend 0, 1 or both; though they will be highly redudant. However, they will be highly essential for most students in the class. In addition, zoom meetings with instructor are available on request. If you have a conflicting class(es), you should be able to take this class provided you can make some of the live lecture times. 
+Course location / time: Classes will be done asyncronously. Recorded lectures will be posted on the Teams site for the class. In addition, there will be two office hours / live lectures / live coding sessions per week on  Tuesdays and Thursdays. These live sessions are not required and will not be recorded. Students are welcome to attend 0, 1 or both. The two within a day will be highly redudant. However, they will be highly essential for most students in the class. In addition, zoom meetings with instructor are available on request. If you have a conflicting class(es), you should be able to take this class provided you can make some of the live lecture times. 
 
 Times of live sessions
 * 8:30 AM - 9:50 AM 
