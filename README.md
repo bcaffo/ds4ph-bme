@@ -20,6 +20,9 @@ Course instructor and TA communication: [Teams](https://teams.microsoft.com/l/te
 
 I cannot stress enought the need to be active on Teams for the  class. Much of the discussion will occur there. New announcements will be made there.
 
+# Video conferencing links
+Video conferencing links will be sent via the Teams site and initally emails to avoid zoom bombers.
+
 # Grading: 
 * There will be once weekly quizzes / projects / assignments due Mondays at 5:00 PM, unless otherwise noted. These will be equally weighted and represent 70% of the grade. The specific format of the evalutation will be communicated each week.
 * There will be one capstone project that represents 30% of the total grade.
