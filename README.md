@@ -49,7 +49,7 @@ All course communcation will come be over the Teams site [ds4bme2019](https://te
 
 * [Rstudio cloud](https://rstudio.cloud/)
 * [Colab notebooks](https://colab.research.google.com/)
-* [Anaconda](
+* [Anaconda](https://www.anaconda.com/products/individual)
 * [R](https://cran.r-project.org/)
 * [Rstudio](https://rstudio.com/)
 * [Shinyapps.io](https://www.shinyapps.io/)
