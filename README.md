@@ -5,29 +5,24 @@ A github repo for the Data Science in Biomedical Engineering and Data Science fo
 [JHU academic calendar](https://studentaffairs.jhu.edu/registrar/academic-calendar/)
 [JHBSPH academic calendar](https://www.jhsph.edu/academics/calendar/2019-2020.html/)
 
-Course location / time: Tuesdays and Thursdays
-* 8:30 - 9:50 at East Baltimore, the SPH building, Room W5030
-* 1:30 - 2:45 at Homewood Shaffer 304
+Course location / time: Classes will be done asyncronously. Recorded lectures will be posted on the Teams site for the class. In addition, there will be two office hours / live lectures / live coding sessions per week on  Tuesdays and Thursdays. These live sessions are not required and will not be recorded. Students are welcome to attend 0, 1 or both; though they will be highly redudant. However, they will be highly essential for most students in the class. In addition, zoom meetings with instructor are available on request. If you have a conflicting class(es), you should be able to take this class provided you can make some of the live lecture times. 
 
-Instructor office hours: 1st hour after class at each campus
- * E3610 of the SPH building
- * Clark 314 B at Homewood
+Times of live sessions
+* 8:30 AM - 9:50 AM 
+* 1:30 PM - 2:45 PM
 
 TA office hours:
-* Homewood: Thursdays at 3:00 Maryland 109
-* East Baltimore: Wednesdays at 3:00 room TBA
-
+* To be announced
 
 Course instructor: [Brian Caffo](www.bcaffo.com)
 
-Course instructor and TA communication: [slack](https://ds4ph-bme.slack.com)
+Course instructor and TA communication: [Teams](https://teams.microsoft.com/l/team/19%3ab2b41e73e5054ec0945f3cf946a54896%40thread.tacv2/conversations?groupId=c0f7b3c4-71a1-46b4-8c0f-bdb732869de0&tenantId=9fa4f438-b1e6-473b-803f-86f8aedf0dec)
 
-Quizzes: Quizzes will be given at the end of each Thursday class starting in the second week (PH) and first week (BME)
+I cannot stress enought the need to be active on Teams for the  class. Much of the discussion will occur there. New announcements will be made there.
 
-Homeworks: Homeworks will be assigned and due dates given in class
-
-Project: final project will be handed in on the final class for each group. [Rubric here (note subject to change)](https://github.com/bcaffo/ds4ph-bme/blob/master/projectRubric.md)
-
+# Grading: 
+* There will be once weekly projects / assignments due Mondays at 5:00 PM, unless otherwise noted. These will be equally weighted. and represent 70% of the grade.
+* There will be one capstone project that represents 30% of the total grade.
 
 # Curriculum
 
@@ -48,26 +43,13 @@ Project: final project will be handed in on the final class for each group. [Rub
 * Capstone project
 
 # Course communication
-All course communcation will come be over the #ds4bme channel on the [ds4bme2019](https://ds4ph-bme.slack.com) slack channel. Invites to the group will be given in the first class.
-
-# Grading
-The course will involve three forms of evaluation: quizzes, homework and projects.
-
-The final grade will be the average of the project, in class quiz grades and homework weighted equally.
-
-The quizzes percentage will be calculated as: 
-
-(X1 + ... + Xk) / (P1 + ... + PK) 
-
-where the Xi and Pi are the student points and possible points on assessment i respectively.
-
-The homework grade will be calculated in the same way.
-
+All course communcation will come be over the Teams site [ds4bme2019](https://teams.microsoft.com/l/team/19%3ab2b41e73e5054ec0945f3cf946a54896%40thread.tacv2/conversations?groupId=c0f7b3c4-71a1-46b4-8c0f-bdb732869de0&tenantId=9fa4f438-b1e6-473b-803f-86f8aedf0dec) slack channel. 
 
 ## Important computing resources
 
 * [Rstudio cloud](https://rstudio.cloud/)
 * [Colab notebooks](https://colab.research.google.com/)
+* [Anaconda](
 * [R](https://cran.r-project.org/)
 * [Rstudio](https://rstudio.com/)
 * [Shinyapps.io](https://www.shinyapps.io/)
