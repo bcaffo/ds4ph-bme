@@ -24,8 +24,14 @@ I cannot stress enought the need to be active on Teams for the  class. Much of t
 Video conferencing links will be sent via the Teams site and initally emails to avoid zoom bombers.
 
 # Grading: 
-* There will be once weekly quizzes / projects / assignments due Mondays at 5:00 PM, unless otherwise noted. These will be equally weighted and represent 70% of the grade. The specific format of the evalutation will be communicated each week.
-* There will be one capstone project that represents 30% of the total grade.
+* There will be once weekly online form submissions (quizzes) / projects / assignments due Mondays at 5:00 PM, unless otherwise noted. These will be equally weighted and represent 70% of the grade. The specific format of the evalutation will be communicated each week.
+* These can be handed in and amended anytime up until the due date
+* There will be one capstone project that represents 30% of the total grade. This can be done in teams.
+* Every evaluation is open book, open internet .... 
+* You may not consult with fellow students on any quiz prortion of the assignment.
+* You may consult with fellow students on any coding project or assigment (other than a quiz)
+* All work submitted must be your own. Copying or plagiarism will be considered a breach of student conduct.
+* If doing a team capstone project, seperate github submissions must be made and the role of each team member delineated in the readme file.
 
 # Curriculum
 
