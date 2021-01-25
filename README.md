@@ -52,7 +52,7 @@ Video conferencing links will be sent via the Teams site and initally emails to 
 * Capstone project
 
 # Course communication
-All course communcation will come be over the Teams site [ds4bme2019](https://teams.microsoft.com/l/team/19%3ab2b41e73e5054ec0945f3cf946a54896%40thread.tacv2/conversations?groupId=c0f7b3c4-71a1-46b4-8c0f-bdb732869de0&tenantId=9fa4f438-b1e6-473b-803f-86f8aedf0dec) slack channel. 
+All course communcation will come be over the Teams site [ds4bme2019](https://teams.microsoft.com/l/team/19%3ab2b41e73e5054ec0945f3cf946a54896%40thread.tacv2/conversations?groupId=c0f7b3c4-71a1-46b4-8c0f-bdb732869de0&tenantId=9fa4f438-b1e6-473b-803f-86f8aedf0dec) Teams site. 
 
 ## Important computing resources
 
