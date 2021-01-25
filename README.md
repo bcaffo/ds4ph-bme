@@ -24,7 +24,7 @@ I cannot stress enought the need to be active on Teams for the  class. Much of t
 Video conferencing links will be sent via the Teams site and initally emails to avoid zoom bombers.
 
 # Grading: 
-* There will be once weekly online form submissions (quizzes) / projects / assignments due Mondays at 5:00 PM, unless otherwise noted. These will be equally weighted and represent 70% of the grade. The specific format of the evalutation will be communicated each week.
+* There will be once weekly online form submissions (quizzes) / projects / assignments due Mondays at 5:00 PM, unless otherwise noted. These will be based on points and your percentage of total points will represent 70% of the grade. The specific format of the evalutation will be communicated each week.
 * These can be handed in and amended anytime up until the due date
 * There will be one capstone project that represents 30% of the total grade. This can be done in teams.
 * Every evaluation is open book, open internet .... 
