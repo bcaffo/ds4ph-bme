@@ -12,7 +12,7 @@ Times of live sessions
 * 1:30 PM - 2:45 PM
 
 TA office hours:
-* To be announced
+* 9:00 - 10:00 Friday
 
 Course instructor: [Brian Caffo](www.bcaffo.com)
 
