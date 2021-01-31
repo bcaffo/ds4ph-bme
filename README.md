@@ -1,6 +1,6 @@
 # Introduction
 
-A github repo for the Data Science in Biomedical Engineering and Data Science for Public Health Course.
+A github repo for the Data Science in Biomedical Engineering and Data Science for Public Health Courses.
 
 [JHU academic calendar](https://studentaffairs.jhu.edu/registrar/academic-calendar/)
 [JHBSPH academic calendar](https://www.jhsph.edu/academics/calendar/2019-2020.html/)
