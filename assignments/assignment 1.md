@@ -6,7 +6,8 @@ file in your github classroom repository for this assignment. Show your work by 
 
 1. Fork the course repository. Create a directory called `Test`. Add a markdown file to your `Test` directory called `aNewReadme.md`. Edit this file using markdown syntax to include a description of what you've done.  Create screenshots to show what you've done and hand in the screenshots.
 3. Issue a pull request for the course repository. Create a screenshot of your pull request. Hand in the screenshot.
-4. Create a new github repository called `ds4bmeTest`; add a `readme.md` file.
+4. Create a new github repository called `ds4bmeTest`; add a readme file.
+5. Clone the `ds4bmeTest`, make a change to the readme file and push the changes back up to your repo.
 5. Download or create a simple webpage; commit it to your repository and serve the webpage using github pages.
 6. Create a branch for your `ds4bmeTest` called `development`. Add a file called `testing.md`
 
