@@ -1,6 +1,8 @@
 # Description 
 ## Steps are as follows:
 
+-------
+
 1. Click on *Add File* button at the top of the forked github repository , then choose *Create new file*.
 2. In the name of the file at the top , enter the Folder name `Test` and type **/** this **creates the folder** `Test` within the forked repository.
 3. A new box appears after we type / , enter the name of the file `aNewReadme.md` within the box .
