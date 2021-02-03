@@ -5,7 +5,7 @@
 
 ## 1. Forking 
 * Fork the Repository 
-![Alt text](/fork1.png)
+![Alt text](/fork1.png?raw=True)
 ![Alt text](/fork2.png)
 
 * Create a directory called Test & add a markdown file called ''aNewReadme.md''
