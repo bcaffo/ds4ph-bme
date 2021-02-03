@@ -1,5 +1,5 @@
 1. Pull request
-   ![pull](.jpg)
+   ![pull](Pull request.png)
    
 2. Create repository
    ![repository](.jpg)
