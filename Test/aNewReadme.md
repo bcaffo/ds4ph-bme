@@ -1,5 +1,5 @@
 # Description 
-## Steps to create `Test` directory and add markdown file  `aNewReadme.md` to it :
+## Steps to create `Test` directory and add markdown file  `aNewReadme.md` :
 
 -------
 
