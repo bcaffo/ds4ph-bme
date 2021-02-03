@@ -1,5 +1,6 @@
-1. Pull request
-   ![pull](Pull request.png)
+1. Add a drectory "Test" in the forked repository and created the file "aNewReadme.md" in it
+   Then add a pull request for the course repository. 
+   ![pull](https://github.com/AugustineY07/ds4ph-bme/blob/master/Test/Pull%20request.png)
    
 2. Create repository
    ![repository](.jpg)
