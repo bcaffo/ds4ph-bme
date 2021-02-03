@@ -1,5 +1,5 @@
 # Description 
-## Steps are as follows:
+## Steps to create `Test` directory and mardown file  `aNewReadme.md` to it :
 
 -------
 
