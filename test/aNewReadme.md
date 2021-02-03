@@ -5,10 +5,10 @@
 
 ## 1. Forking 
 * Fork the Repository 
-![Alt text](/fork1.png?raw=True)
-![Alt text](/fork2.png)
+![Image 1](fork1.png)
+![Image 2](fork2.png)
 
 * Create a directory called Test & add a markdown file called ''aNewReadme.md''
-![Alt text](/fork3.png)
+![Image 3](fork3.png)
 
 ## 2. Pull Request
