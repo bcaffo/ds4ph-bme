@@ -1,3 +1,8 @@
+# **ASSIGNMENT 1**
+
+
+
+
 # Introduction
 
 A github repo for the Data Science in Biomedical Engineering and Data Science for Public Health Courses.
@@ -53,16 +58,4 @@ Video conferencing links will be sent via the Teams site and initally emails to 
 
 # Course communication
 All course communcation will come be over the Teams site [2021 Advanced Data Science for Public Health and BME](https://teams.microsoft.com/l/team/19%3ab2b41e73e5054ec0945f3cf946a54896%40thread.tacv2/conversations?groupId=c0f7b3c4-71a1-46b4-8c0f-bdb732869de0&tenantId=9fa4f438-b1e6-473b-803f-86f8aedf0dec) Teams site. 
-
-## Important computing resources
-
-* [Rstudio cloud](https://rstudio.cloud/)
-* [Colab notebooks](https://colab.research.google.com/)
-* [Anaconda](https://www.anaconda.com/products/individual)
-* [R](https://cran.r-project.org/)
-* [Rstudio](https://rstudio.com/)
-* [Shinyapps.io](https://www.shinyapps.io/)
-* [github](https://github.com/)
-
-
 
