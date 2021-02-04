@@ -1,4 +1,4 @@
-## What I have done:
+# What I have done:
 
 1. Fork the course repository
 2. Create a directory called `Test`
