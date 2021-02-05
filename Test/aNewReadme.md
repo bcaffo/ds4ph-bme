@@ -1,0 +1,1 @@
+Inside the forked repository "ShunyaoLei/ds4ph-bme", I clicked on "Add file", then from the dropdown menu, selected "Create new file". I typed "Test/aNewReadme.md" into the filename, which created this file "aNewReadme.md" inside the folder "Test".
