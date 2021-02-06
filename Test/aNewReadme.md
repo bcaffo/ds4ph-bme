@@ -10,6 +10,9 @@
 ## Markdown syntax dictionary ##
 
 #: first level title. 
+
 ##: second level title. 
+
 **: Bold. 
+
 *`: Italic. 
