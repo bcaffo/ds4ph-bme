@@ -1,4 +1,4 @@
-# Description of what I've done for question 2
+# Description of what I've done for question 1
 
 ## Step-to-step description ##
 1. Go to *bcaffo/ds4ph-bme*.
