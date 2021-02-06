@@ -11,3 +11,5 @@
 
 ## c) Adding a markdown file to the directory 'Test'
 ![Alt text](https://github.com/sree0917/ds4ph-bme/blob/master/Test/adding%20readme.png)
+
+## d) Editing the markdown file using markdown syntax
