@@ -5,4 +5,4 @@
 
 
 
-![screenshot](Step1_Proof.jpeg) 
+![screenshot](Step1_Proof.jpg) 
