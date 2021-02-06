@@ -13,3 +13,4 @@
 ![Alt text](https://github.com/sree0917/ds4ph-bme/blob/master/Test/adding%20readme.png)
 
 ## d) Editing the markdown file using markdown syntax
+![Alt text](https://github.com/sree0917/ds4ph-bme/blob/master/Test/editing%20markdown.png)
