@@ -6,3 +6,5 @@ So far, I've managed to:
 3. Write a readme file using **Markdown** *syntax*
 4. ???
 5. Profit
+
+Am I doing this right?
