@@ -6,3 +6,10 @@
 
 
 ![screenshot](Step1_Proof.jpg) 
+
+> See image below for proof of step 2.
+
+
+
+
+![screenshot2](Step2_Proof.jpg)
