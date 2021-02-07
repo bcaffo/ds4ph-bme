@@ -1,7 +1,7 @@
 # Assignment 1
 ## README file for assignment 1
 1. For task 1, a new markdown file called *aNewReadme* was added to a new directory called *Test* that was created under my class room repository.
-+ Screenshot for task 1:![alt text]https://github.com/ds4ph-bme/assignment1-zou2/blob/main/Test/Step1.PNG
++ Screenshot for task 1:![alt text](https://github.com/ds4ph-bme/assignment1-zou2/blob/main/Test/Step1.PNG)
 
 2. For task 2, a pull request was issued for the course repository.
 + Screenshot for task 2:![alt text](https://github.com/ds4ph-bme/assignment1-zou2/blob/main/Test/Step2.PNG)
