@@ -5,7 +5,7 @@ A github repo for the Data Science in Biomedical Engineering and Data Science fo
 [JHU academic calendar](https://studentaffairs.jhu.edu/registrar/academic-calendar/)
 [JHBSPH academic calendar](https://www.jhsph.edu/academics/calendar/2019-2020.html/)
 
-Course location / time: Classes will be done asynchronously. Recorded lectures will be posted on the Teams site for the class. In addition, there will be two office hours / live lectures / live coding sessions per week on  Tuesdays and Thursdays. These live sessions are not required and will not be recorded. Students are welcome to attend 0, 1 or both. The two within a day will be highly redudant. However, they will be highly essential for most students in the class. In addition, zoom meetings with instructor are available on request. If you have a conflicting class(es), you should be able to take this class provided you can make some of the live lecture times. 
+Course location / time: Classes will be done asyncronously. Recorded lectures will be posted on the Teams site for the class. In addition, there will be two office hours / live lectures / live coding sessions per week on  Tuesdays and Thursdays. These live sessions are not required and will not be recorded. Students are welcome to attend 0, 1 or both. The two within a day will be highly redudant. However, they will be highly essential for most students in the class. In addition, zoom meetings with instructor are available on request. If you have a conflicting class(es), you should be able to take this class provided you can make some of the live lecture times. 
 
 Times of live sessions
 * 8:30 AM - 9:50 AM 
@@ -18,7 +18,7 @@ Course instructor: [Brian Caffo](www.bcaffo.com)
 
 Course instructor and TA communication: [Teams](https://teams.microsoft.com/l/team/19%3ab2b41e73e5054ec0945f3cf946a54896%40thread.tacv2/conversations?groupId=c0f7b3c4-71a1-46b4-8c0f-bdb732869de0&tenantId=9fa4f438-b1e6-473b-803f-86f8aedf0dec)
 
-I cannot stress enough the need to be active on Teams for the  class. Much of the discussion will occur there. New announcements will be made there.
+I cannot stress enought the need to be active on Teams for the  class. Much of the discussion will occur there. New announcements will be made there.
 
 # Video conferencing links
 Video conferencing links will be sent via the Teams site and initally emails to avoid zoom bombers.
