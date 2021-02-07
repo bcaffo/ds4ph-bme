@@ -4,11 +4,11 @@ Hello, this is the proof that Edward Tourney has done HW1 for Advanced Data Scie
 
 ## Question 2
 My pull request:
-![screenshot2a](/Test/2A.png)
+![screenshot2a](/Test/2A.PNG)
 
 ## Question 3
 My new repository with readme file:
-![screenshot3a](/Test/3A.png)
+![screenshot3a](/Test/3A.PNG)
 
 ## Question 4
 Evidence of having cloned ds4bmeTest and edited the readme file:
