@@ -13,3 +13,5 @@
 
 
 ![screenshot2](Step2_Proof.jpg)
+
+> See images below for proof of step 4.
