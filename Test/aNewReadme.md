@@ -2,6 +2,10 @@
 
 Hello, this is the proof that Edward Tourney has done HW1 for Advanced Data Science by Brian Caffo.
 
+## Question 1
+My readme in Test, forked from the class repository:
+![screenshot1a](/Test/1A.PNG)
+
 ## Question 2
 My pull request:
 ![screenshot2a](/Test/2A.PNG)
