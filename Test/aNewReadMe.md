@@ -15,3 +15,13 @@
 ![screenshot2](Step2_Proof.jpg)
 
 > See images below for proof of step 4.
+
+
+
+
+![screenshot3](Step4a_Proof.jpg)
+
+
+
+
+![screenshot4](Step4b_Proof.jpg)
