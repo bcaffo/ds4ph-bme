@@ -13,7 +13,7 @@
 + Screenshot for task 4:![alt text](https://github.com/ds4ph-bme/assignment1-zou2/blob/main/Test/Step4.PNG)
 
 5. For task 5, a webpage was created and commited to my repository.
-+ Screenshot for task 5:
++ Screenshot for task 5:![alt text](https://github.com/ds4ph-bme/assignment1-zou2/blob/main/Test/Step5.PNG)
 
 6. For task 6, a branch called *development* was created in the *ds4bmeTest* repository and a markdown file called *testing* was created in this branch.
 + Screenshot for task 6:![alt text](https://github.com/ds4ph-bme/assignment1-zou2/blob/main/Test/Step6.PNG)
