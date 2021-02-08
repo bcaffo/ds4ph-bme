@@ -13,5 +13,6 @@
 ### 4. A webpage is created, the address is https://augustiney07.github.io/ds4bmeTest/webpage.html
    ![web](https://github.com/AugustineY07/ds4ph-bme/blob/master/Test/webpage.png)
    
-### 5. A branch is created 
-   ![branch]()
+### 5. A branch "development" is created and a file "testing" is added in the new branch. 
+   ![branch](https://github.com/AugustineY07/ds4ph-bme/blob/development/Test/development.png)
+   ![branch](https://github.com/AugustineY07/ds4ph-bme/blob/development/Test/testing.png)
