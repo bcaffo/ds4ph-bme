@@ -10,8 +10,8 @@
    ![clone](https://github.com/AugustineY07/ds4ph-bme/blob/master/Test/push.png)
    ![clone](https://github.com/AugustineY07/ds4ph-bme/blob/master/Test/pushed.png)
    
-4. Create webpage
-   ![webpage](.jpg)
+### 4. A webpage is created, the address is https://augustiney07.github.io/ds4bmeTest/webpage.html
+   ![web](https://github.com/AugustineY07/ds4ph-bme/blob/master/Test/webpage.png)
    
-5. Create branch
-   ![branch](.jpg)
+### 5. A branch is created 
+   ![branch]()
