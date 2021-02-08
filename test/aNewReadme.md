@@ -5,3 +5,4 @@
 2. Cloned course repository locally.
 3. Created a directory called `test`.
 4. Created this readme file.
+5. Pushed changes back to github.
