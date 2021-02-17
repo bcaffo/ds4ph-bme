@@ -8,9 +8,9 @@ L0 L1 L3
 8  5  NA
 4  8  1
 ```
-Make sure the function does error checking and use only basic R commands (R has a prewritten function that does this). Submit the function as the file `question1.R`.
+Make sure your function uses only basic R commands (R has a prewritten function that does this). Submit the function as the file `question1.R`.
 
-II. Take the web page that you downloaded in Assignment 1 (the wikipedia page for Alexandar the Great) and read it into R. Count the number of lines in R. Return you code and the answer as a commment in `question2. R`. 
+II. Take the web page that you downloaded for your previous Assignment (the wikipedia page for Chewbacca) and read it into R. Count the number of lines in R. Return you code and the answer as a commment in `question2. R`. 
 
 III. Write a function `Hogwarts` to determine what Hogwarts house a user is in. Your function should ask for a text response and then reply one of `Gryffindor`, `Hufflepuff`, `Ravenclaw` or `Slytherin`. It doesn't have to be super elaborate. Hint, here's some code to wait to receive text input in R. 
 ```
