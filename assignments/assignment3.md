@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 3
 
 I. Write a function `mylag` that takes in a vector and a list of integers and returns a matrix with the oringal and lagged vectors. Make sure that it labels the columns. For example `mylag( c(1, 5, 8, 4), c(1, 3))` should return:
 ```
