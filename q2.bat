@@ -1,1 +1,1 @@
-ls - https://en.wikipedia.org/wiki/Chewbacca | grep "Han Solo" > log
+grep -c "Han Solo" chewie.html
