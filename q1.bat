@@ -1,2 +1,1 @@
-wget -r[https://en.wikipedia.org/wiki/Chewbacca]
-command >> chewie.html
+curl https://en.wikipedia.org/wiki/Chewbacca > chewie.html
