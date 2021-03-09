@@ -1,4 +1,4 @@
-Hand in your assignment as an R markdown document structured as follows:
+Hand in your assignment as a **single** R markdown document structured as follows:
 
 * Link of shiny app for q1
 * Code for q2
