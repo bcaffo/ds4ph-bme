@@ -1,3 +1,10 @@
+Hand in your assignment as an R markdown document structured as follows:
+
+* Link of shiny app for q1
+* Code for q2
+* Link if shiny app for q3
+* Code for q4
+* Code for q5
 
 1. Create a shiny app of your Hogwarts house progam from the previous HW. Submit both the code and a link to the published app on shinyapps.io
 2. Recreate your plots from the previous assignment, except the mosaic plots, as interactive plotly graphics. Submit the Rmarkdown document and the html document.
