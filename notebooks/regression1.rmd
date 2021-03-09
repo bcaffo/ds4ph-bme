@@ -1,0 +1,118 @@
+---
+title: "Regression"
+output: html_document
+runtime: shiny
+---
+
+# Introduction to regression
+
+We're going to follow along the analysis [here](https://www.opencasestudies.org/ocs-bp-RTC-analysis/) as we build towards multivariable regression. This data studies 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warnings = FALSE)
+```
+
+```{r}
+library(tidyverse)
+library(shiny)
+```
+
+```{r}
+load(url("https://github.com/opencasestudies/ocs-bp-RTC-analysis/blob/master/data/Wrangled_data.rda?raw=true"))
+```
+
+Let's create a basic data set looking at the natural log of 
+violent crime trends over time.
+```{r}
+regDat = DONOHUE_DF %>%
+  group_by(YEAR) %>%
+  summarize(Viol_crime_count = sum(Viol_crime_count),
+                  Population = sum(Population),
+                    .groups = "drop") %>%
+  mutate(Viol_crime_rate_100k_log = log((Viol_crime_count*100000)/Population))
+
+g = regDat %>% ggplot(aes(x = YEAR, y = Viol_crime_rate_100k_log)) +
+  geom_line() +
+  scale_x_continuous(breaks = seq(1980, 2010, by = 1),
+                     limits = c(1980, 2010),
+                     labels = c(seq(1980, 2010, by = 1))) +
+  scale_y_continuous(breaks = seq(5.75, 6.75, by = 0.25),
+                     limits = c(5.75, 6.75)) +
+  labs(title = "Crime rates fluctuate over time",
+       x = "Year",
+       y = "ln(violent crimes per 100,000 people)") +
+  theme_minimal() + 
+  theme(axis.text.x = element_text(angle = 90))
+g
+```
+
+For the purposes of this lecture, let's rename the log violent crime rate as Y and the
+year as X. 
+
+```{r}
+regDat = regDat %>% select(x = YEAR, y = Viol_crime_rate_100k_log)
+head(regDat)
+```
+
+Consider ignoring year altogether and only worrying about the violent crime rate.
+We want to minimize $\sum_i (y_i - \mu)^2$ over $\mu$.
+
+```{r echo=FALSE}
+y = regDat$y
+ymin = round(min(y), 2)
+ymax = round(max(y), 2)
+ymean = mean(y)
+inputPanel(
+  sliderInput("mu", label = "Mu:",
+              min = ymin, max = ymax, value = ymean, step = 0.01)
+)
+
+
+renderPlot({
+  mse = mean( (y - input$mu) ^ 2 )
+  plt = density(y)
+  plot(range(plt$x), range(plt$y), type = "n", frame = FALSE)
+  xlab("y")
+  lines(plt, lwd = 2)
+  title(paste("MSE: ", round(mse, 3)))
+  abline(v = ymean, col = "blue", lwd = 2)
+  abline(v = input$mu, col = "red", lwd = 2)
+})
+```
+
+No need to optimize this directly, since we know the answer.
+$$
+\begin{align}
+\sum_{i=1}^n (y_i - \mu)^2 & =  \sum_i (y_i - \bar y + \bar y - \mu)^2 \\
+                     & = \sum_i (y_i - \bar y)^ 2 + 2(\bar y - \mu) \sum_i (y_i - \bar y)
+                        + n (\bar y - \mu)^2 \\
+                     & = \sum_i (y_i - \bar y)^ 2 + n (\bar y - \mu)^2 \\
+                     & \leq \sum_i (y_i - \bar y)^ 2.
+\end{align}
+$$
+Now let's consider a regression variation of the problem. Assume we want to minimize
+$\sum_i (y_i - \beta_0 - \beta_1 x_i)^2$. That is, we want to find the best line
+that fits our data.
+
+```{r echo=FALSE}
+y = regDat$y
+x = regDat$x
+x = x - mean(x)
+
+
+inputPanel(
+  sliderInput("b0", label = "Beta0",
+              min = 6.2, max = 6.8, value = 6.36430, step = .01),
+  sliderInput("b1", label = "Beta1",
+              max = 0, min = -.03, value = -0.01249, step = 0.005)
+)
+
+renderText(c(input$b0 - 31.28037))
+renderPlot({
+  mse = mean( (y - input$b0 - input$b1) ^ 2 )
+  plot(x, y, frame = FALSE, ylim = c(6, 8), xlab = "years since 1980")
+  title(paste("MSE: ", round(mse, 3)))
+  abline(6.36430, -0.01249, col = "blue", lwd = 2)
+  abline(input$b0, input$b1, col = "red", lwd = 2)
+})
+```
