@@ -3,7 +3,7 @@ Hand in your assignment as a **single** R markdown document structured as follow
 * Link of shiny app for q1
 * Code for q2
 * Link if shiny app for q3
-* Code for q4
+* Link to flexdashboard app q4
 * Code for q5
 
 In addition, include a directory with your assignment files.
