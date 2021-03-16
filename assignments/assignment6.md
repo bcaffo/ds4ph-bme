@@ -15,4 +15,4 @@ For your app, download the data from the CSSE github page. The app should allow 
 6. Displays the selected time series
 7. Displays a map of the selected locations
 
-
+Please submit your app to shinyapps.io and submit the Rmd for the app plus a readme with the live link to the github classroom link.
