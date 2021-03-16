@@ -7,11 +7,12 @@ For this assignment, you will create a coronavirus information flexdashboard app
 
 For your app, download the data from the CSSE github page. The app should allow the user:
 
-1. To checkbox some of a few countries or regions (say 3 or so) to include.
+1. To checkbox some of a few countries or regions to include. How many is up to you (> 1).
 2. To select natural log or raw scale
 3. To checkbox whether to add a smoothed version of the time series
 4. To select which to investigate deaths, recoveries or cases
 5. To select whether to start the time series by calendar date or time since first case
 6. Displays the selected time series
+7. Displays a map of the selected locations
 
 
