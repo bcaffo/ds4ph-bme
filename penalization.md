@@ -13,7 +13,7 @@ Some choices for `P` include:
 
 1. Lasso `P = lambda * sum( abs(beta) )`
 2. Ridge regression `P = lambda * sum( beta ^ 2)`
-3. Elastic net `P = lambda * (alpha * sum( abs(beta) ) / 2 + (1 - alpha) * sum(beta ^ 2))
+3. Elastic net `P = lambda * (alpha * sum( abs(beta) ) / 2 + (1 - alpha) * sum(beta ^ 2))`
 
 Here `lambda` is a tuning parameter and `alpha` in the elastic next chooses a balance between the lasso and ridge penalties.
 
