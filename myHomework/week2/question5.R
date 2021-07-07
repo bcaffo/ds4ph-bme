@@ -1,0 +1,6 @@
+a=sample(1:6000,6000)
+a=matrix(a,nrow=1000)
+m=rowMeans(a)
+hist(m,breaks = 100,col=blues9)
+mean(m)
+var(m)
