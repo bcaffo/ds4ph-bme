@@ -10,6 +10,8 @@
 # Interactive graphics
  * [manipulate](https://DataScienceSpecialization.github.io/courses/09_DevelopingDataProducts/manipulate/index.html)
  * [googleVis](https://DataScienceSpecialization.github.io/courses/09_DevelopingDataProducts/googleVis/index.html)
+ * [googleVis documentation](https://cran.r-project.org/web/packages/googleVis/vignettes/googleVis_intro.html)f
  * [rMaps](https://DataScienceSpecialization.github.io/courses/09_DevelopingDataProducts/lectures/rMaps.pdf)
- * [https://www.rdocumentation.org/packages/plotly/versions/4.8.0/topics/ggplotly](https://www.rdocumentation.org/packages/plotly/versions/4.8.0/topics/ggplotly)
+ * [ggplotly 1](https://www.rdocumentation.org/packages/plotly/versions/4.8.0/topics/ggplotly)
+ * [ggplotly 2](https://plotly.com/ggplot2/)
 
