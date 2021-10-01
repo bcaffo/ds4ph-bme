@@ -62,7 +62,8 @@ All course communcation will come be over the Teams site [2021 Advanced Data Sci
 * [R](https://cran.r-project.org/)
 * [Rstudio](https://rstudio.com/)
 * [Shinyapps.io](https://www.shinyapps.io/)
-* [github](https://github.com/)
+* [github](https://github.com/)</br></br>
+a pull request by Ran Sui
 
 
 
